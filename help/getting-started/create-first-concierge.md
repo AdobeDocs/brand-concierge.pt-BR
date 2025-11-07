@@ -1,0 +1,35 @@
+---
+title: Introdução ao Brand Concierge
+description: Saiba como configurar uma Brand Concierge do Adobe para fornecer experiências personalizadas e conversacionais ao cliente usando a voz da sua marca.
+topic: Personalization,Integrations
+role: User
+level: Beginner
+doc-type: Tutorial
+duration: 181
+last-substantial-update: 2025-10-31T00:00:00Z
+jira: KT-19504
+source-git-commit: e7d50385a97fb10098bddf4222565348918d687f
+workflow-type: tm+mt
+source-wordcount: '126'
+ht-degree: 0%
+
+---
+
+
+# Criar primeiro concierge
+
+Saiba como configurar seu primeiro Adobe Brand Concierge para ajudar os clientes a encontrar os produtos, serviços ou experiências corretos da Adobe. Você aprende a dar nomes aos concierges, adicionar conteúdo útil, escolher como eles respondem e combinar sua voz com a sua marca. Quando estiver pronto, você poderá testá-lo e ver como ele funciona em desktops e dispositivos móveis.
+
+## Para quem é este vídeo?
+
+* Experience Manager digital
+* Tecnólogo de marketing
+* Designer de experiência do cliente
+
+## Conteúdo de vídeo
+
+* Como configurar uma Brand Concierge do Adobe
+* Como conectar fontes de conteúdo para obter respostas precisas
+* Como personalizar a voz da marca e testar a experiência
+
+>[!VIDEO](https://video.tv.adobe.com/v/3476521/?learn=on&enablevpops)
