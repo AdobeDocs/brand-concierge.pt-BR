@@ -3,9 +3,9 @@ title: Configurar e Configurar Reuniões
 description: Saiba como configurar reuniões no Adobe Brand Concierge.
 level: Beginner
 role: User,Admin
-source-git-commit: 8afc5a9ad7978fa5a83e98443d6bf129896eb909
+source-git-commit: 9bd739128b25805d8e17b65b2fb9fea65c820526
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '343'
 ht-degree: 2%
 
 ---
@@ -13,6 +13,8 @@ ht-degree: 2%
 # Encontros {#meetings}
 
 Conheça todas as suas configurações de _Reunião_ no Adobe Brand Concierge. Conecte seu calendário, defina a disponibilidade, visualize análises e muito mais.
+
+Relacionado: [Marcar uma reunião](../getting-started/meeting-booking.md) vídeo
 
 ## Configuração {#configuration}
 
