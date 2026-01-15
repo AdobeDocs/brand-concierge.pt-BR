@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Explorar o Adobe Brand Concierge
-source-git-commit: 019913304088ac33b80bc937297d000010bfccf7
+source-git-commit: 2c3f3d009d8fef3eaf5bf32d73672eeda7ba05c8
 workflow-type: tm+mt
-source-wordcount: '26'
-ht-degree: 15%
+source-wordcount: '31'
+ht-degree: 12%
 
 ---
 
@@ -13,9 +13,10 @@ ht-degree: 15%
 # Adobe Brand Concierge {#content}
 
 + [Brand Concierge](../home.md)
-+ Introdução{#getting-started}
-   + [Criar primeiro concierge](../getting-started/create-first-concierge.md)
-   + [Agendar uma reunião](../getting-started/meeting-booking.md)
++ Vídeos de introdução{#getting-started}
+   + [Criar um concierge](../getting-started/create-first-concierge.md)
+   + [Marcar uma reunião](../getting-started/meeting-booking.md)
 + Documentação{#documentation}
-   + [Visão geral](../documentation/overview.md)
+   + [Ajuda do Concierge](../documentation/overview.md)
    + [Encontros](../documentation/meetings.md)
+   + [Perguntas frequentes](../documentation/brand-concierge-faq.md)

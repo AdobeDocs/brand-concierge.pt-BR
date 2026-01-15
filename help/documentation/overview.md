@@ -1,22 +1,18 @@
 ---
-title: Visão geral do Adobe Brand Concierge
-description: Saiba mais sobre o Adobe Brand Concierge, uma solução de descoberta e envolvimento de produtos alimentados por IA para propriedades digitais da marca.
-source-git-commit: ee6b768579e620044ca92f5e8b9d06f39a60583d
+title: Documentação do produto
+description: Saiba como configurar e usar os principais recursos do Brand Concierge.
+role: User,Admin
+level: Beginner
+source-git-commit: 2c3f3d009d8fef3eaf5bf32d73672eeda7ba05c8
 workflow-type: tm+mt
-source-wordcount: '2952'
+source-wordcount: '1768'
 ht-degree: 1%
 
 ---
 
-# Visão geral do Adobe Brand Concierge
+# Ajuda do Brand Concierge
 
-O Brand Concierge é um assistente digital alimentado por IA para propriedades digitais da marca que combina IA gerativa com o conteúdo da sua marca e os dados do cliente. Use o Brand Concierge para encontrar produtos, comparar opções e obter respostas por meio de conversas naturais, fornecendo experiências de conversação e personalizadas em jornadas de consumidores e compradores de negócios.
-
-## Visão geral {#overview}
-
-O Brand Concierge é uma solução de descoberta e envolvimento de produtos alimentados por IA para propriedades digitais da marca. Ele ajuda as marcas a fornecer experiências conversacionais e personalizadas em jornadas de consumidores e compradores de negócios, orientando os visitantes desde a exploração até a decisão.
-
-Com o Brand Concierge, você obtém experiências de descoberta multimodal e alimentadas por IA, que o orientam para os produtos certos com recomendações personalizadas e comparações de produtos fáceis de entender. As conversas se adaptam em tempo real às suas necessidades e intenções, fornecendo engajamento contextual e contínuo, independentemente do canal que você usa. E quando você precisa de mais ajuda, o Brand Concierge facilita a conexão perfeita com uma pessoa ativa ou, em cenários B2B, a programação de uma reunião com um representante de vendas.
+Saiba como configurar e usar os principais recursos do Brand Concierge. Encontre respostas para perguntas comuns sobre configuração, integração de dados, privacidade, personalização, medição de desempenho e requisitos técnicos.
 
 ## Recursos principais {#key-features}
 
@@ -32,11 +28,24 @@ O Brand Concierge tem vários recursos principais, incluindo:
 
 ## Introdução {#getting-started}
 
-Você pode acessar o Brand Concierge no painel do Adobe Experience Cloud. Para começar, siga a apresentação do usuário pela primeira vez na Página inicial do Brand Concierge. Forneça o nome do seu concierge, adicione fontes de conhecimento, configure as habilidades que deseja usar e defina a Expressão da marca.
+Você pode acessar o Brand Concierge no painel do Adobe Experience Cloud. Em um nível superior, você executa essas tarefas na apresentação da Página inicial:
 
-## Página inicial {#homepage}
+1. [Criar um concierge](#homepage)
+1. [Adicionar fontes de conhecimento](#knowledge-sources)
+1. [Configurar habilidades](#skills-configuration)
+1. [Especifique sua Expressão de Marca](#brand-expression).
 
-A página inicial do Brand Concierge foi projetada para facilitar o uso e aumentar a eficiência, orientando você pelas etapas essenciais de configuração com uma apresentação dedicada para o usuário pela primeira vez. Um banner principal destacado descreve as principais ações, como especificar o nome e o propósito do concierge, adicionar fontes de conhecimento, configurar habilidades relevantes e definir a expressão da marca. À medida que você avança, um rastreador visual exibe claramente quais componentes da configuração foram concluídos e destaca as tarefas restantes. Para apoiar ainda mais seus esforços, a Página inicial apresenta uma seção inspiradora com vídeos e demonstrações de recursos de concierge, como recomendações de produtos. Você também tem acesso rápido à documentação do Experience League para obter insights técnicos mais detalhados. Quando a configuração estiver concluída, um resumo da configuração fornecerá uma visão abrangente dos seus detalhes, organizada com guias para facilitar ajustes e refinamentos contínuos.
+Para assistir a um tutorial em vídeo, consulte [Criar sua primeira concierge](../getting-started/create-first-concierge.md)
+
+As seções a seguir descrevem cada tarefa e as opções da interface em detalhes.
+
+## Criar um concierge {#homepage}
+
+A página inicial do Brand Concierge foi projetada para facilitar o uso e aumentar a eficiência, orientando você pelas etapas essenciais de configuração com uma apresentação dedicada para o usuário pela primeira vez. Um banner principal destacado descreve as principais ações, como especificar o nome e o propósito do concierge, adicionar fontes de conhecimento, configurar habilidades relevantes e definir a expressão da marca.
+
+À medida que você avança, um rastreador visual exibe claramente quais componentes da configuração foram concluídos e destaca as tarefas restantes. Para apoiar ainda mais seus esforços, a Página inicial apresenta uma seção inspiradora com vídeos e demonstrações de recursos de concierge, como recomendações de produtos. Você também tem acesso rápido à documentação do Experience League para obter insights técnicos mais detalhados.
+
+Quando a configuração estiver concluída, um resumo da configuração fornecerá uma visão abrangente dos seus detalhes, organizada com guias para facilitar ajustes e refinamentos contínuos.
 
 **Elementos-chave**
 
@@ -46,12 +55,12 @@ A página inicial do Brand Concierge foi projetada para facilitar o uso e aument
 * **Links de documentação**: acesso rápido aos recursos do Experience League para obter insights técnicos mais profundos.
 * **Resumo da Configuração**: exibição pós-configuração de todos os detalhes, com guias para refinamento.
 
-**Fluxo de trabalho**
+**Para criar uma concierge**
 
-1. Para começar a usar a Página inicial, navegue até o banner de apresentação e selecione **[!UICONTROL Introdução]**.
-2. Em seguida, forneça um nome para o concierge e defina a finalidade dele (por exemplo, &quot;Recomendar produtos personalizados&quot;).
-3. Siga as etapas guiadas para continuar.
-4. Quando a configuração for concluída, retorne à Página inicial para monitorar ou editar sua concierge.
+1. Navegue até o banner de apresentação e clique em **[!UICONTROL Introdução]**.
+1. Insira um nome para a sua portaria e defina sua finalidade (por exemplo, _Recomendar produtos personalizados_).
+1. Siga as etapas guiadas para continuar.
+1. Quando a configuração for concluída, retorne à Página inicial para monitorar ou editar sua concierge.
 
 >[!TIP]
 >
@@ -59,47 +68,62 @@ A página inicial do Brand Concierge foi projetada para facilitar o uso e aument
 
 ### Fontes de conhecimento {#knowledge-sources}
 
-Você pode usar Fontes de conhecimento para gerenciar as fontes de dados que alimentam as respostas do seu concierge. Você pode acessar as Fontes de conhecimento depois de fazer upload dos arquivos iniciais. As Fontes de conhecimento têm vários elementos-chave a serem considerados, como:
+As [!UICONTROL Fontes de Conhecimento] ajudam você a gerenciar as fontes de dados que alimentam as respostas do seu concierge. Você pode acessar as [!UICONTROL Fontes de Conhecimento] após carregar os arquivos iniciais. [!UICONTROL Fontes de Conhecimento] tem vários elementos-chave a serem considerados, como:
 
-* **Lista do Source:** A Lista do Source exibe todos os itens carregados, como arquivos CSV com links de site, e indica seu status como processado ou pendente.
-* **Interface de Carregamento:** A Interface de Carregamento permite que você arraste e solte ou procure arquivos CSV que contenham URLs, que o sistema rastreará para extrair conhecimento.
-* **Opções de Conexão:** As Opções de Conexão permitem vincular fontes de conhecimento específicas a habilidades relevantes para uso mais direcionado.
+* **Lista do Source:** Exibe todos os itens carregados, como arquivos CSV com links de site, e indica seu status como processado ou pendente.
+* **Interface de Carregamento:** permite que você arraste e solte ou procure arquivos CSV que contenham URLs, que o sistema rastreará para extrair conhecimento.
+* **Opções de Conexão:** permite que você vincule fontes de conhecimento específicas a habilidades relevantes para uso mais direcionado.
 
-**Fluxo de trabalho**
+**Para adicionar uma fonte de conhecimento**
 
-1. Na Página Inicial, selecione **[!UICONTROL Adicionar Knowledge Source]**.
-2. Em seguida, faça upload de um arquivo CSV e verifique se ele inclui uma coluna para os URLs do site.
-3. Aguarde alguns momentos para o processamento. Essa etapa é resolvida rapidamente como atualizações de status em tempo real.
-4. Depois de adicionado, retorne à Página inicial. Nesse ponto, você deve ver a nova fonte adicionada à Página inicial.
-5. Use a Página inicial para editar ou excluir suas fontes de conhecimento, conforme necessário. Você também pode reconectar uma fonte de conhecimento se ocorrerem alterações.
+1. Na Página inicial, clique em **[!UICONTROL Fontes de conhecimento]**.
 
-### Configuração de habilidades {#skills-configuration}
+1. Nomeie a fonte de conhecimento.
 
-Use a interface de Configuração de Habilidades para definir a experiência de seu concierge, configurando habilidades como o **Product Advisory**. Responda ao questionário para fornecer as entradas que os consultores da Adobe usarão posteriormente para engenharia de prompt. A Configuração de habilidades tem vários elementos-chave a serem considerados, como:
+1. Clique em **[!UICONTROL Adicionar]** para carregar um arquivo CSV.
+
+   Certifique-se de que inclua uma coluna para URLs de site.
+
+1. Aguarde alguns momentos para o processamento.
+
+   Essa etapa é resolvida rapidamente como atualizações de status em tempo real.
+
+1. Depois de adicionado, retorne à Página inicial.
+
+   Nesse ponto, você deve ver a nova fonte adicionada à Página inicial.
+
+   Use a Página inicial para editar ou excluir suas fontes de conhecimento, conforme necessário. Você também pode reconectar uma fonte de conhecimento se ocorrerem alterações.
+
+### Configurar habilidades {#skills-configuration}
+
+Use a interface da [!UICONTROL Configuração de Habilidades] para modelar a experiência de sua concierge, configurando habilidades como o **Product Advisory**. Responda ao questionário para fornecer as entradas que os consultores da Adobe usarão posteriormente para engenharia de prompt. A Configuração de habilidades tem vários elementos-chave a serem considerados, como:
 
 * **Seletor de habilidades:** você pode escolher entre as habilidades disponíveis, como o Product Advisory, para fazer recomendações de produtos.
 * **Questionário:** você preencherá uma série de prompts para fornecer conhecimento sobre o produto, regras de negócios, palavras-chave a serem evitadas e conexões de origem.
 * **Visualização:** você tem a opção de fazer ajustes ao vivo e ver como seus ajustes afetam as respostas, com links para a página de visualização.
 * **Habilitar Reserva de Reunião:** Você pode habilitar os visitantes a agendar reuniões diretamente com representantes comerciais.
 
-**Fluxo de trabalho**
+**Para configurar habilidades**
 
-1. Navegue até o rastreador de progresso na Página inicial e selecione **[!UICONTROL Configurar habilidades]**.
-2. Selecione uma habilidade (por exemplo, Aviso do produto).
-3. Responda às perguntas de configuração subsequentes. (Exemplos de perguntas incluem: &quot;O que o concierge deve saber sobre os produtos?&quot;, &quot;Quais regras de negócios devem ser seguidas?&quot;, &quot;Quais palavras-chave devem ser evitadas&quot;)
-4. Conecte fontes de conhecimento relevantes.
-5. Habilitar recursos adicionais (reserva de reunião).
-6. Enviar para processamento.
+1. Navegue até o rastreador de progresso na Página inicial e clique em **[!UICONTROL Configurar habilidades]**.
+1. Selecione uma habilidade (por exemplo, Aviso do produto).
+1. Responda às perguntas de configuração subsequentes.
+
+   Exemplos de perguntas incluem: _O que o concierge deve saber sobre os produtos?_, _Que regras comerciais devem ser seguidas?_, _Quais palavras-chave devem ser evitadas?_
+
+1. Conectar [fontes de conhecimento](#knowledge-sources) relevantes.
+1. Habilitar recursos adicionais (reserva de reunião).
+1. Enviar para processamento.
 
 ### Expressão da marca {#brand-expression}
 
-Você pode usar a interface da Expressão da marca para personalizar a personalidade e o estilo das respostas do seu concierge. Você pode acessar a Expressão da marca nos estágios de configuração ou na barra lateral de visualização para alterações em andamento.
+Você pode usar a interface da _[!UICONTROL Expressão da marca]_ para personalizar a personalidade e o estilo das respostas de seus porteiros. Você pode acessar a Expressão da marca nos estágios de configuração ou na barra lateral de visualização para alterações em andamento.
 
 Com o Brand Expression, você pode usar controles deslizantes para personalizar as configurações de voz e tom do concierge. Você pode selecionar entre opções como &quot;Amigável&quot;, &quot;Profissional&quot; e &quot;Energético&quot;. Além disso, você pode configurar os comprimentos de resposta à sua vontade. Você pode definir o concierge para retornar saídas curtas, médias ou longas, dependendo da visão da sua marca.
 
-**Fluxo de trabalho**
+**Para personalizar sua expressão de marca**
 
-1. Na Página inicial, selecione **[!UICONTROL Expressão da marca]**.
+1. Na Página inicial, clique em **[!UICONTROL Personalizar expressão da marca]**.
 2. Em seguida, configure a voz, o tom e a duração de resposta preferencial da sua marca.
 3. Selecione **[!UICONTROL Salvar]** para garantir que as alterações sejam refletidas em respostas futuras.
 
@@ -113,26 +137,26 @@ Teste seu concierge antes de iniciá-lo para clientes que usam os modos Visualiz
 
 Use o modo de Visualização para simular conversas enquanto faz ajustes em tempo real.
 
-1. Após a configuração, volte para a Página inicial e selecione **[!UICONTROL Visualizar]**.
-2. Use a interface de chat para inserir sua query (por exemplo, &quot;Recomende um laptop abaixo de US$ 1000).
-3. Revise as respostas do concierge.
-4. Use o painel direito para ajustar as configurações de expressão da marca.
-5. Selecione **[!UICONTROL Compartilhar]** para gerar um link para os comentários da equipe.
+1. Após a configuração, navegue de volta para a Página inicial e clique em **[!UICONTROL Visualizar]**.
+1. Use a interface de chat para inserir sua consulta (por exemplo, _Recomendamos um laptop abaixo de US$ 1000_).
+1. Revise as respostas do concierge.
+1. Use o painel direito para ajustar as configurações de expressão da marca.
+1. Clique em **[!UICONTROL Compartilhar]** para gerar um link para os comentários da equipe.
 
 >[!TAB Modo de exibição de testador]
 
 Use a visualização Testador para coletar feedback estruturado sobre o desempenho da portaria e simular a experiência do usuário final.
 
-1. Na visualização, selecione **[!UICONTROL Modo de Exibição de Testador]**.
-2. Use a view Testador para simular conversas com usuários finais.
-3. Use o mecanismo de aumento e diminuição para classificar cada resposta recebida.
-4. Formulário de feedback completo para miniaturas:
+1. Na visualização, clique em **[!UICONTROL Exibição do testador]**.
+1. Use a view Testador para simular conversas com usuários finais.
+1. Use o mecanismo de aumento e diminuição para classificar cada resposta recebida.
+1. Formulário de feedback completo para miniaturas:
    **Cobertura de resposta:** Ela solucionou a intenção?
    **Tom da marca:** Alinhado com a personalidade?
    **Qualidade da resposta:** Clara e estruturada?
    **Recursos de resposta:** acompanhamento útil?
-5. Adicione comentários e observações específicas.
-6. Envie feedback para revisão do painel.
+1. Adicione comentários e observações específicas.
+1. Envie feedback para revisão do painel.
 
 >[!ENDTABS]
 
@@ -147,19 +171,21 @@ A seção de feedback fornece vários recursos importantes para ajudar você a m
 * **Lista de Comentários:** Apresenta uma tabela de sessões de comentários. Você pode clicar em linhas individuais para exibir a transcrição completa do chat para cada sessão.
 * **Painel de Feedback:** Mostra cartões de classificação no lado direito da interface. Passar o mouse sobre esses cartões ou clicar neles destacará as partes relevantes da transcrição do chat para facilitar a referência.
 
-**Fluxo de trabalho**
+**Para enviar comentários**
 
 1. Navegue até a página inicial do Brand Concierge e selecione **[!UICONTROL Feedback]**.
-2. Use o instantâneo fornecido para exibir informações sobre tendências de alto nível.
-3. Para acessar um deep drive habilitado pelo Customer Journey Analytics, selecione **[!UICONTROL Exibir Relatório]**.
-4. Você também pode inspecionar o painel em busca de comentários conectados adicionais.
-5. Quando terminar, você poderá exportar os insights para uso posterior e refinar seu fluxo de trabalho.
+1. Use o instantâneo fornecido para exibir informações sobre tendências de alto nível.
+1. Para acessar um deep drive habilitado pelo Customer Journey Analytics, selecione **[!UICONTROL Exibir Relatório]**.
+1. Você também pode inspecionar o painel em busca de comentários conectados adicionais.
+1. Quando terminar, você poderá exportar os insights para uso posterior e refinar seu fluxo de trabalho.
 
 ### Configurações  {#configurations}
 
-A guia *[!UICONTROL Configurações]* é uma exibição de resumo somente leitura que você pode usar para revisar a configuração completa da concierge. Isso espelha diretamente a Página inicial após a conclusão da configuração inicial e fornece resumos de seus detalhes, fontes de conhecimento, habilidades e expressão de marca configurada. Você pode usar esse recurso como referência antes de visualizar ou compartilhar sua concierge.
+A guia _[!UICONTROL Configurações]_ é uma exibição de resumo somente leitura que você pode usar para revisar a configuração completa da concierge. Isso espelha diretamente a Página inicial após a conclusão da configuração inicial e fornece resumos de seus detalhes, fontes de conhecimento, habilidades e expressão de marca configurada. Você pode usar esse recurso como referência antes de visualizar ou compartilhar sua concierge.
 
 ## O que você pode fazer com o Brand Concierge
+
+Saiba mais sobre os recursos do cliente, os recursos comerciais e os casos de uso do Brand Concierge.
 
 ### Recursos do cliente
 
@@ -193,147 +219,3 @@ A Brand Concierge oferece suporte a casos de uso de B2C e B2B em vários setores
 | Viagens e hospitalidade | Os clientes recebem recomendações de destino personalizadas, assistência com itinerários de planejamento, suporte durante todo o processo de reserva e respostas a perguntas de política de viagem. |
 | Serviços financeiros | A Brand Concierge oferece comparações de produtos para ajudar os clientes a escolher as soluções financeiras certas, fornece informações de conta, fornece orientação de reconhecimento de conformidade e permite a programação de reuniões com consultores financeiros. |
 
-## Perguntas frequentes
-
-Leia esta seção para obter respostas a perguntas frequentes sobre o Brand Concierge.
-
-### Geral
-
-#### Qual é a diferença entre o Brand Concierge e os chatbots?
-
-O Brand Concierge se diferencia dos chatbots tradicionais por aproveitar a IA gerativa treinada especificamente no conteúdo e nos dados do cliente de sua organização, em vez de depender de respostas com script ou resultados genéricos da Web. Isso permite que o assistente forneça respostas personalizadas com base no comportamento individual do cliente, integre-se profundamente às ferramentas e aos dados da Adobe, aprenda continuamente com cada interação e interprete com precisão a intenção do cliente, além da correspondência básica de palavras-chave.
-
-#### Posso usar o Brand Concierge para B2C e B2B?
-
-Sim. Os casos de uso incluem:
-
-* **B2C:** descoberta de produtos, assistência a compras, suporte ao cliente e recomendações personalizadas.
-* **B2B:** Avaliações guiadas, comparações de recursos, agendamento de reuniões, roteamento de representantes de vendas, agendamento de consultas.
-
-#### Quais setores podem usar o Brand Concierge?
-
-O Brand Concierge pode ser usado em diversos setores, inclusive varejo e comércio eletrônico, viagens e hospitalidade, serviços financeiros, saúde (com controles de conformidade), mídia e entretenimento, e tecnologia e software. Basicamente, qualquer setor que ajude os clientes a encontrar informações e tomar decisões pode se beneficiar com a implementação do Brand Concierge.
-
-### Dados e privacidade
-
-#### Os dados do cliente estão seguros?
-
-Sim. A Brand Concierge garante a segurança dos dados do cliente aderindo à conformidade com o GDPR e a CCPA, processando dados na infraestrutura segura da Adobe, fornecendo controle sobre o uso de dados e protegendo as conversas por meio de criptografia e registro de auditoria.
-
-Todas as conversas ocorrem em suas propriedades, não em servidores de terceiros.
-
-#### Quais fontes de dados posso conectar?
-
-Você pode conectar os seguintes tipos de fontes de dados ao Brand Concierge:
-
-| Tipo de Source de dados | Origens/Detalhes Disponíveis |
-|------------------|---------------------------|
-| **Produto e conteúdo** | Catálogos de produtos<br>Sistemas de inventário<br>Bases de conhecimento e documentação<br>Conteúdo de site via upload de URL CSV<br>Conteúdo do Adobe Experience Manager<br>Dados do Adobe Commerce |
-| **Dados do cliente** | Perfis do Adobe Experience Platform<br>Dados de comportamento do Adobe Analytics<br>Atributos de clientes próprios<br>APIs de terceiros (configurado) |
-| **Formato de arquivo CSV** | Uma coluna contendo URLs de sites<br>O Brand Concierge rastreia URLs e extrai conteúdo automaticamente<br>Processando atualizações de status em tempo real<br>Vários arquivos CSV podem ser carregados para diferentes áreas de conteúdo |
-
-Todos os dados seguem suas regras de governança.
-
-#### Os clientes podem recusar a personalização?
-
-Sim. Os clientes que recusarem recebem respostas úteis sem personalização comportamental. Você configura o tratamento de recusa para corresponder às suas políticas de privacidade.
-
-### Configuração e controle
-
-#### Como controlar a voz da marca?
-
-Você pode controlar a voz da marca diretamente na interface do usuário configurando elementos como tom (formal a casual), idioma (simples a técnico) e personalidade (por exemplo, útil, entusiasmado ou profissional). Além disso, você pode definir padrões de resposta usando modelos e exemplos, e estabelecer medidas de proteção para aplicar regras de conformidade e limites. Comece com os prompts de referência da Adobe e personalize essas configurações para refletir a identidade exclusiva de sua marca.
-
-#### O que acontece quando o Brand Concierge não pode responder uma pergunta?
-
-Você pode configurar comportamentos de fallback para determinar como o Brand Concierge responde quando não consegue responder uma pergunta. As opções incluem exibir uma mensagem elegante &quot;Não posso ajudar com isso&quot;, sugerir perguntas alternativas, vincular a recursos de autoatendimento ou encaminhar automaticamente a consulta a um agente humano. Escolha o que funciona melhor para sua marca.
-
-#### Posso personalizar o design visual?
-
-Sim. Personalizar todos os elementos visuais, incluindo:
-
-* Cores e marcas
-* Fontes e tipografia
-* Estilos de botão
-* Posicionamento do widget
-* Layouts de cartão
-* Formatação de resposta
-
-Os SDKs fornecem componentes padrão e opções de personalização completas.
-
-#### Quanto tempo leva a configuração?
-
-A duração da configuração pode depender do seu tipo de implementação. Uma implementação básica que inclui um catálogo de produtos existente, conteúdo de perguntas frequentes padrão e configurações padrão pode levar de 3 a 5 dias para ser configurada. Por outro lado, implementações avançadas com integrações personalizadas, personalização abrangente, fluxos de trabalho complexos e regras de conformidade personalizadas podem levar de 2 a 4 semanas para serem concluídas.
-
-#### Como funcionam a pré-visualização e o teste?
-
-O Brand Concierge inclui ferramentas de teste integradas:
-
-| Ferramenta de teste | Recursos |
-|--------------|----------|
-| **Modo de visualização** | Simular conversas com o cliente<br>Ajustar configurações em tempo real<br>Ver alterações instantaneamente<br>Compartilhar links de visualização com a sua equipe |
-| **Modo de Exibição de Testador** | Classifique as respostas com miniaturas para cima/para baixo<br>Forneça feedback estruturado em 4 categorias<br>Adicione comentários detalhados<br>Rastreie feedback no painel |
-
-Todos os testes acontecem antes da implantação para os clientes.
-
-#### Os clientes podem agendar reuniões com nossa equipe?
-
-Sim, os clientes podem agendar reuniões com sua equipe usando a habilidade Reserva de Reunião. Para ativar esse recurso, ative a habilidade na Configuração de habilidades, defina intenções de ativação (como &quot;falar com as vendas&quot;), conecte seu calendário ou sistema de agendamento e defina sua disponibilidade e tipos de reunião. Após a configuração, os clientes podem solicitar reuniões durante conversas, e o Brand Concierge facilitará o processo de agendamento sem exigir que saiam do bate-papo.
-
-#### Quem gerencia a engenharia de prompts?
-
-Os consultores da Adobe lidam com a engenharia de prompts em segundo plano:
-
-1. Você responde às perguntas de configuração na página Habilidades.
-2. Forneça conhecimento sobre o produto, regras de negócios e evite palavras-chave.
-3. Envie suas entradas.
-4. Os consultores da Adobe usam suas respostas para elaborar prompts otimizados.
-5. As alterações são refletidas automaticamente no seu concierge.
-
-Isso garante que seu concierge use padrões de prompt de IA de práticas recomendadas, mantendo os requisitos específicos da sua marca.
-
-### Desempenho e análise
-
-#### Como medir o sucesso?
-
-É possível medir o sucesso usando o painel do Brand Concierge. Use o painel para rastrear métricas como:
-
-| Métrica | O que rastreia |
-|--------|----------------|
-| **Engajamento** | Volume de conversa, duração da sessão |
-| **Satisfação** | Pontuações de sentimento, classificações de feedback |
-| **Conversão** | Taxas de compra para os serviços assistidos vs. não assistidos |
-| **Tópicos** | Perguntas e solicitações mais comuns |
-| **Transferência** | Taxas de escalonamento e motivos |
-| **Desempenho** | Precisão da resposta, tempo de resolução |
-
-Também é possível integrar o com o Adobe Analytics para fazer uma análise mais profunda.
-
-#### O que devo fazer se o sentimento cair?
-
-Se você notar uma queda no sentimento, investigue as causas subjacentes revisando consultas com falha recentes, verificando lacunas de conteúdo, analisando feedback negativo, testando o tom apropriado e verificando quaisquer problemas técnicos. Depois que as causas raiz forem identificadas, resolva-as imediatamente e continue a monitorar melhorias.
-
-### Integração e suporte técnico
-
-#### Preciso de outros produtos da Adobe?
-
-Não, mas elas melhoram o desempenho:
-
-| Opção de integração | Recursos |
-|-------------------|--------------|
-| **Independente** | Funciona com seu catálogo de produtos e conteúdo |
-| **Com Adobe Experience Platform** | Perfis de clientes unificados<br>Personalização avançada<br>Consistência entre canais |
-| **Com Adobe Commerce** | Estoque em tempo real<br>Histórico de pedidos<br>Integração com o carrinho |
-| **Com Adobe Experience Manager** | Gerenciamento de conteúdo<br>Atualizações dinâmicas<br>Suporte a vários sites |
-
-#### E se meu site não estiver no Adobe?
-
-O Brand Concierge funciona com qualquer plataforma. O JavaScript SDK é integrado a qualquer site, e os SDKs móveis funcionam com qualquer back-end de aplicativo.
-
-#### Como funciona a transferência do agente?
-
-Quando a entrega do agente é acionada, a Brand Concierge transfere o histórico completo da conversa, o perfil e a ID do cliente, a intenção identificada, os detalhes dos produtos discutidos e todas as tentativas de resolução para o agente. Isso garante que os agentes tenham um contexto completo e possam continuar a conversa perfeitamente, sem exigir que os clientes repitam as informações.
-
-#### Posso oferecer suporte a vários idiomas?
-
-Sim. Configure o suporte de idioma por assistente com base na sua base de clientes. O Brand Concierge detecta o idioma do cliente e responde de acordo.
