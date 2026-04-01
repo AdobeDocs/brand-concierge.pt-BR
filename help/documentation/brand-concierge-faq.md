@@ -3,9 +3,9 @@ title: Perguntas frequentes
 description: Obtenha respostas para perguntas frequentes sobre o Adobe Brand Concierge.
 role: User,Admin
 level: Beginner
-source-git-commit: 0f010472e3f49c5d84e9875a33215d56e020bef8
+source-git-commit: 06911f38d17882cdae8441d5cbdbcdf786d9e6bb
 workflow-type: tm+mt
-source-wordcount: '1091'
+source-wordcount: '1537'
 ht-degree: 1%
 
 ---
@@ -15,6 +15,10 @@ ht-degree: 1%
 Leia esta seção para obter respostas a perguntas frequentes sobre o Brand Concierge.
 
 ## Geral
+
+### Por que usar o Brand Concierge? Que problema ele resolve?
+
+Mais pesquisa acontece em ferramentas externas de IA (por exemplo, ChatGPT, Gemini) em vez de em sites da marca. Os visitantes desejam cada vez mais &quot;chegar ao ponto&quot; — por exemplo, &quot;Conte-me sobre X&quot;, &quot;Posso fazer Y?&quot; O Brand Concierge ajuda a manter essa conversa em seu site: quando os visitantes acessam suas páginas (incluindo de um assistente de IA), eles podem continuar a conversa com um assistente treinado em seu conteúdo. Você fornece uma experiência consistente na marca em vez de perdê-la para respostas genéricas em outro lugar.
 
 ### Qual é a diferença entre o Brand Concierge e os chatbots?
 
@@ -47,13 +51,29 @@ Você pode conectar os seguintes tipos de fontes de dados ao Brand Concierge:
 |------------------|---------------------------|
 | **Produto e conteúdo** | Catálogos de produtos<br>Sistemas de inventário<br>Bases de conhecimento e documentação<br>Conteúdo de site via upload de URL CSV<br>Conteúdo do Adobe Experience Manager<br>Dados do Adobe Commerce |
 | **Dados do cliente** | Perfis do Adobe Experience Platform<br>Dados de comportamento do Adobe Analytics<br>Atributos de clientes próprios<br>APIs de terceiros (configurado) |
-| **Formato de arquivo CSV** | Uma coluna contendo URLs de sites<br>O Brand Concierge rastreia URLs e extrai conteúdo automaticamente<br>Processando atualizações de status em tempo real<br>Vários arquivos CSV podem ser carregados para diferentes áreas de conteúdo |
+| **Formato de arquivo CSV** | Uma coluna contendo URLs de sites<br>A Brand Concierge rastrea URLs e extrai conteúdo automaticamente<br>Processando atualizações de status em tempo real<br>Vários arquivos CSV podem ser carregados para diferentes áreas de conteúdo |
 
 Todos os dados seguem suas regras de governança.
 
 ### Os clientes podem recusar a personalização?
 
 Sim. Os clientes que recusarem recebem respostas úteis sem personalização comportamental. Você configura o tratamento de recusa para corresponder às suas políticas de privacidade.
+
+### Há implicações de consentimento ou privacidade?
+
+Sim. **Dados de conversa:** Se a conversa incluir informações pessoais ou identificáveis, a coleção, o armazenamento e o uso deverão estar em conformidade com a sua política de consentimento e privacidade (por exemplo, GDPR, CCPA). **Analytics:** quando o Concierge envia eventos para o Experience Platform ou o Analytics, esses eventos podem estar sujeitos ao seu consentimento e governança existentes (por exemplo, cadeias de consentimento, rótulos de uso de dados). Recomendamos tratar o Concierge como qualquer outra experiência digital própria: certifique-se de que o banner de consentimento e as preferências do site abranjam dados e análises de conversação e chat, e alinhe os dados do evento à sua estratégia de consentimento. Realizar análise legal e de conformidade antes da ativação.
+
+## Perfis e personalização
+
+### O Concierge usa perfis de clientes (por exemplo, Real-Time CDP) para adaptar as respostas? E se o visitante estiver em uma jornada?
+
+No escopo atual, o Concierge está focado em visitantes anônimos: ele responde a partir da conversa e da sua base de conhecimento (site e catálogo), não de uma pesquisa ao vivo de identidade ou estado de jornada no Real-Time CDP. Os recursos do roteiro incluem criação de clientes potenciais, entrega para vendas e redirecionamento, que se alinharão mais com perfis conhecidos e contexto de jornada. Personalizar respostas com &quot;este visitante tem um perfil?&quot; ou &quot;onde eles estão em uma jornada?&quot; O é um aprimoramento futuro. Por enquanto, a experiência é consistente para visitantes anônimos.
+
+## Implantação e linha do tempo
+
+### Normalmente, quanto tempo leva para entrar no ar?
+
+Com trabalho paralelo e colaboração ativa, muitas implementações entram em funcionamento em cerca de 6 a 9 semanas. O preparo pode começar rapidamente assim que suas entradas (URLs, catálogo, diretrizes de marca) estiverem prontas. Após a configuração do acordo e da produção, você passa pelo ajuste de qualidade e por uma implantação controlada (por exemplo, 5% e, em seguida, dimensionando para 100% em cerca de uma semana).
 
 ## Configuração e controle
 
@@ -109,6 +129,12 @@ Os consultores da Adobe lidam com a engenharia de prompts em segundo plano:
 
 Isso garante que seu concierge use padrões de prompt de IA de práticas recomendadas, mantendo os requisitos específicos da sua marca.
 
+## Expressão e tom da marca
+
+### Se eu definir &quot;lúdico e entusiasmado&quot; no Brand Expression, a IA vai exagerar?
+
+Ele pode. Alguns clientes relataram que a IA tende a exagerar o entusiasmo quando definida como &quot;lúdico e entusiasmado&quot;, por exemplo, pontos de exclamação duplos ou superlativos fortes. Para públicos regulamentados ou médicos (por exemplo, farmacêutica, nutrição no início da vida), recomendamos diminuir o entusiasmo e a brincadeira enquanto mantemos o tom conversacional e casual. Use configurações moderadas e ajuste com base no feedback; para os setores regulamentados, eles tendem a ter uma &quot;conversa&quot; em vez de uma &quot;entusiasmo&quot;.
+
 ## Desempenho e análise
 
 ### Como medir o sucesso?
@@ -118,7 +144,7 @@ Isso garante que seu concierge use padrões de prompt de IA de práticas recomen
 | Métrica | O que rastreia |
 |--------|----------------|
 | **Engajamento** | Volume de conversa, duração da sessão |
-| **Satisfação** | Pontuações de sentimento, classificações de feedback |
+| **Satisfação** | Pontuações do sentimento, classificações de feedback |
 | **Conversão** | Taxas de compra para os serviços assistidos vs. não assistidos |
 | **Tópicos** | Perguntas e solicitações mais comuns |
 | **Transferência** | Taxas de escalonamento e motivos |
