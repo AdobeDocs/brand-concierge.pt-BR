@@ -3,9 +3,24 @@ title: Documentação do produto
 description: Saiba como configurar e usar os principais recursos do Brand Concierge.
 role: User,Admin
 level: Beginner
-source-git-commit: 2c3f3d009d8fef3eaf5bf32d73672eeda7ba05c8
+TQID: https://experienceleague.adobe.com/Ob3NAKyD929Ije-Y7UPO1hMfDYDi-UJ0gINpGlxiYGM
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+  - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: be0b12f950b911baf48596f7b145fcaa2c6880cf
 workflow-type: tm+mt
-source-wordcount: '1768'
+source-wordcount: 1793
 ht-degree: 1%
 
 ---
@@ -71,7 +86,7 @@ Quando a configuração estiver concluída, um resumo da configuração fornecer
 As [!UICONTROL Fontes de Conhecimento] ajudam você a gerenciar as fontes de dados que alimentam as respostas do seu concierge. Você pode acessar as [!UICONTROL Fontes de Conhecimento] após carregar os arquivos iniciais. [!UICONTROL Fontes de Conhecimento] tem vários elementos-chave a serem considerados, como:
 
 * **Lista do Source:** Exibe todos os itens carregados, como arquivos CSV com links de site, e indica seu status como processado ou pendente.
-* **Interface de Carregamento:** permite que você arraste e solte ou procure arquivos CSV que contenham URLs, que o sistema rastreará para extrair conhecimento.
+* **Interface de Carregamento:** permite que você arraste e solte ou procure arquivos CSV que contenham URLs, que o sistema rastreará por extrair conhecimento.
 * **Opções de Conexão:** permite que você vincule fontes de conhecimento específicas a habilidades relevantes para uso mais direcionado.
 
 **Para adicionar uma fonte de conhecimento**
@@ -109,7 +124,7 @@ Use a interface da [!UICONTROL Configuração de Habilidades] para modelar a exp
 1. Selecione uma habilidade (por exemplo, Aviso do produto).
 1. Responda às perguntas de configuração subsequentes.
 
-   Exemplos de perguntas incluem: _O que o concierge deve saber sobre os produtos?_, _Que regras comerciais devem ser seguidas?_, _Quais palavras-chave devem ser evitadas?_
+   Exemplos de perguntas incluem: _O que o concierge deve saber sobre os produtos?_, _Que regras comerciais devem ser seguidas?_, _Que palavras-chave devem ser evitadas?_
 
 1. Conectar [fontes de conhecimento](#knowledge-sources) relevantes.
 1. Habilitar recursos adicionais (reserva de reunião).
@@ -166,7 +181,7 @@ Após os testes, você pode usar a guia feedback na página inicial para fornece
 
 A seção de feedback fornece vários recursos importantes para ajudar você a monitorar e avaliar o desempenho do Brand Concierge. Os seguintes elementos estão disponíveis:
 
-* **Instantâneo de Desempenho:** Exibe cartões com um resumo das métricas principais, incluindo o total de conversas, usuários únicos, tendências de sentimentos e taxa de engajamento.
+* **Instantâneo de Desempenho:** Exibe cartões com um resumo das métricas principais, incluindo o total de conversas, usuários únicos, tendências de sentimento e taxa de participação.
 * **Botão Exibir Relatório:** permite abrir um painel ativado pela Customer Journey Analytics para obter acesso detalhado a análises avançadas e métricas de desempenho.
 * **Lista de Comentários:** Apresenta uma tabela de sessões de comentários. Você pode clicar em linhas individuais para exibir a transcrição completa do chat para cada sessão.
 * **Painel de Feedback:** Mostra cartões de classificação no lado direito da interface. Passar o mouse sobre esses cartões ou clicar neles destacará as partes relevantes da transcrição do chat para facilitar a referência.
@@ -179,7 +194,7 @@ A seção de feedback fornece vários recursos importantes para ajudar você a m
 1. Você também pode inspecionar o painel em busca de comentários conectados adicionais.
 1. Quando terminar, você poderá exportar os insights para uso posterior e refinar seu fluxo de trabalho.
 
-### Configurações  {#configurations}
+### Configurações {#configurations}
 
 A guia _[!UICONTROL Configurações]_ é uma exibição de resumo somente leitura que você pode usar para revisar a configuração completa da concierge. Isso espelha diretamente a Página inicial após a conclusão da configuração inicial e fornece resumos de seus detalhes, fontes de conhecimento, habilidades e expressão de marca configurada. Você pode usar esse recurso como referência antes de visualizar ou compartilhar sua concierge.
 
