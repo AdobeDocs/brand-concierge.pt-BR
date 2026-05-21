@@ -18,9 +18,9 @@ topic_v2:
   - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: be0b12f950b911baf48596f7b145fcaa2c6880cf
+source-git-commit: 950a34b078c453274cc8ea9b7d236b0871e4a0ad
 workflow-type: tm+mt
-source-wordcount: 1793
+source-wordcount: 1995
 ht-degree: 1%
 
 ---
@@ -234,3 +234,32 @@ A Brand Concierge oferece suporte a casos de uso de B2C e B2B em vários setores
 | Viagens e hospitalidade | Os clientes recebem recomendações de destino personalizadas, assistência com itinerários de planejamento, suporte durante todo o processo de reserva e respostas a perguntas de política de viagem. |
 | Serviços financeiros | A Brand Concierge oferece comparações de produtos para ajudar os clientes a escolher as soluções financeiras certas, fornece informações de conta, fornece orientação de reconhecimento de conformidade e permite a programação de reuniões com consultores financeiros. |
 
+## Divulgação do Chatbot {#disclosure}
+
+Para fornecer uma experiência transparente e confiável, os usuários do Adobe Brand Concierge são responsáveis por adicionar uma breve divulgação em sua experiência de chat. Essa divulgação ajuda os usuários finais a entender como o chat funciona e como suas informações podem ser usadas.
+
+**O que a divulgação deve cobrir**
+
+Sua divulgação no chat deve comunicar claramente três coisas aos usuários finais.
+
+1. _O chat usa IA gerativa_
+
+   Informe aos usuários que as respostas são geradas pela IA para que eles entendam que estão interagindo com um sistema automatizado.
+
+1. _Os bate-papos podem ser revisados para melhorar a experiência_
+
+   Os usuários devem ser informados de que as conversas por chat podem ser acessadas por você (o cliente) e seus provedores de serviço para ajudar a personalizar as respostas e melhorar a qualidade e o desempenho do bate-papo.
+
+1. _Usar o chat significa concordar com esse uso_
+
+Deixe claro que ao continuar usando o chat, os usuários estão concordando com esse processamento de seus dados de chat.
+
+**Exemplo (somente para fins de referência)**
+
+`"This chat uses generative AI to help respond to you. Chats may be recorded by [customer] and/or our service provider and used to help operate and improve services, make your interactions with us better, and provide a more personalized experience. By continuing to chat you agree to this processing of data."`
+
+Você pode adaptar o texto de acordo com a voz da sua marca e a experiência do usuário, desde que os pontos principais acima sejam comunicados claramente.
+
+**Por que isso é importante**
+
+Ser inovador sobre como o chat funciona ajuda a definir as expectativas certas para os usuários e cria confiança em experiências alimentadas por IA.
