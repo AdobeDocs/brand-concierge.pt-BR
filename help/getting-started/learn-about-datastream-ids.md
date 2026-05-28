@@ -34,6 +34,6 @@ Saiba como a ID de sequência de dados conecta os eventos do Web SDK do seu site
 
 <!-- Replace the video ID in the URL below with your Adobe Media Player asset ID when published. -->
 
->[!VIDEO](https://video.tv.adobe.com/v/3491535?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491539?captions=por_br&learn=on)
 
 Para obter a documentação, consulte a [ajuda do Brand Concierge](../documentation/overview.md).
