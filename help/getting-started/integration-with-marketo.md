@@ -8,7 +8,7 @@ topic: Integrations
 doc-type: Tutorial
 last-substantial-update: 2026-06-10T00:00:00Z
 jira: KT-21468
-source-git-commit: 0cf28b049f802f6ce677a62bbd3dc4da2f5ffde4
+source-git-commit: e77153743febdcd411ce973172c82a7a713b4135
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Integração com o Marketo
 
-Saiba como o Brand Concierge fecha o loop entre seu site e o Marketo Engage. Veja como as conversas do visitante — da captura de leads no chat à reserva de reunião — fluem automaticamente para o Marketo como dados de atividade nativos e como usar esses dados em Campanhas inteligentes de acionador e em lote.
+Saiba como o Brand Concierge fecha o loop entre seu site e o Marketo Engage. Veja como as conversas do visitante (da captura de leads no chat até a reserva de reunião) fluem automaticamente para o Marketo como dados de atividade nativos e como usar esses dados em Campanhas inteligentes de acionador e em lote.
 
 ## Para quem é este vídeo?
 
