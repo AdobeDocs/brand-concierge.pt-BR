@@ -32,6 +32,6 @@ Prepare-se para entrar no ar com o Adobe Brand Concierge, um assistente alimenta
 * O que você fornece em relação ao que a equipe do Adobe configura
 * A linha do tempo típica de seis a nove semanas e o que a afeta
 
->[!VIDEO](https://video.tv.adobe.com/v/3495869/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3495873/?captions=por_br&learn=on)
 
 Para obter a documentação, consulte a [ajuda do Brand Concierge](../documentation/overview.md).
