@@ -32,7 +32,7 @@ O Adobe Brand Concierge só pode responder às perguntas, bem como ao conteúdo 
 * Como preparar seu conteúdo antes de compartilhá-lo
 * Como escrever uma definição de jornada de visitante de uma página
 
->[!VIDEO](https://video.tv.adobe.com/v/3496007/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496011/?captions=por_br&learn=on)
 
 ## Vídeos relacionados nesta série
 
