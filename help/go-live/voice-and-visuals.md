@@ -32,6 +32,6 @@ Seu concierge não deve soar como um chatbot genérico — ele deve soar como su
 * Opções visuais do widget: posicionamento, modo de exibição, cor e fonte
 * Nomear o assistente, escrever sua saudação e escolher prompts de início
 
->[!VIDEO](https://video.tv.adobe.com/v/3496942/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496946/?captions=por_br&learn=on)
 
 Para obter a documentação, consulte a [ajuda do Brand Concierge](../documentation/overview.md).
