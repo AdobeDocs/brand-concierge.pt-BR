@@ -43,6 +43,6 @@ Saiba mais sobre o recurso de reserva de reunião encontrado no Adobe Brand Conc
 * Veja com que rapidez e facilidade ocorre uma transferência para um agente ativo
 * Descubra como essas ferramentas são gerenciadas e configuradas
 
->[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478539?captions=por_br&learn=on&enablevpops)
 
 Para obter mais documentação, consulte [Reuniões](../documentation/meetings.md).
