@@ -8,7 +8,7 @@ doc-type: Tutorial
 duration: 150
 last-substantial-update: 2026-07-10T00:00:00Z
 jira: KT-21745
-source-git-commit: 14c0dae30087e8245964d6bd80eb462f8450f168
+source-git-commit: c933b3d8a0a48791f31b1db851a9a4d3be5660e9
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
@@ -32,6 +32,6 @@ Prepare-se para entrar no ar com o Adobe Brand Concierge, um assistente alimenta
 * O que você fornece em relação ao que a equipe do Adobe configura
 * A linha do tempo típica de seis a nove semanas e o que a afeta
 
->[!VIDEO](https://video.tv.adobe.com/v/3495873/?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3495869/?learn=on)
 
 Para obter a documentação, consulte a [ajuda do Brand Concierge](../documentation/overview.md).
