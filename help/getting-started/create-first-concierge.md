@@ -5,8 +5,8 @@ topic: Personalization,Integrations
 role: User
 level: Beginner
 doc-type: Tutorial
-duration: 213
-last-substantial-update: 2025-10-31
+duration: 372
+last-substantial-update: 2026-08-20
 jira: KT-19504
 TQID: https://experienceleague.adobe.com/RDjW-BGiusLzV4wcUQpJ7kB6VxE01H-a6iaDlwbGofc
 product_v2:
@@ -19,16 +19,16 @@ topic_v2:
   - id: a09a5a04-e30b-4d55-b031-38e6f5ec86db
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: c933b3d8a0a48791f31b1db851a9a4d3be5660e9
+source-git-commit: 5e6249cc834071ae1f330278a4150fe6140da758
 workflow-type: tm+mt
-source-wordcount: 138
+source-wordcount: 160
 ht-degree: 0%
 
 ---
 
 # Criar seu primeiro concierge
 
-Saiba como configurar seu primeiro Adobe Brand Concierge para ajudar a orientar os clientes com uma experiência personalizada e conversacional em seu site. Você aprende a dar nomes aos concierges, adicionar conteúdo útil, escolher como eles respondem e combinar sua voz com a sua marca. Quando estiver pronto, você poderá testá-lo e ver como ele funciona em desktops e dispositivos móveis.
+Saiba como configurar seu primeiro Brand Concierge do Adobe em apenas alguns minutos. Forneça o URL do site, e o Brand Concierge cria automaticamente um perfil de marca inicial e instruções do conteúdo do próprio site, que você pode revisar e ajustar antes de salvar. Depois que o concierge for criado, teste-o com perguntas de exemplo no desktop e nos dispositivos móveis para ver como ele responde usando o conteúdo do seu próprio site.
 
 ## Para quem é este vídeo?
 
@@ -38,11 +38,11 @@ Saiba como configurar seu primeiro Adobe Brand Concierge para ajudar a orientar 
 
 ## Conteúdo de vídeo
 
-* Como configurar uma Brand Concierge do Adobe
-* Como conectar fontes de conteúdo para obter respostas precisas
-* Como personalizar a voz da marca e testar a experiência
+* Como inserir o URL do site preenche automaticamente o perfil da marca e as instruções sugeridas
+* Como revisar e ajustar o perfil da marca, as instruções e os avisos de início antes de salvar
+* Como testar seu concierge com perguntas de exemplo no desktop e no dispositivo móvel
 
->[!VIDEO](https://video.tv.adobe.com/v/3476526/?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476526?captions=por_br&learn=on)
 
 Para obter a documentação, consulte a [ajuda do Brand Concierge](../documentation/overview.md).
 
