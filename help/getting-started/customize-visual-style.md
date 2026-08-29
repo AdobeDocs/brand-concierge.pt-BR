@@ -32,6 +32,6 @@ Seu Adobe Brand Concierge começa com escolhas visuais que o Adobe já fez para 
 * Como editar o cabeçalho e o subtítulo da mensagem de boas-vindas, incluindo cor, peso e tamanho do texto
 * Como adicionar, remover e editar cartões de prompt inicial — incluindo texto do cartão, imagens e cor de fundo
 
->[!VIDEO](https://video.tv.adobe.com/v/3502259)
+>[!VIDEO](https://video.tv.adobe.com/v/3502263?captions=por_br)
 
 Para obter a documentação, consulte a [ajuda do Brand Concierge](../documentation/overview.md).
