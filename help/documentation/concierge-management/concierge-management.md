@@ -2,9 +2,9 @@
 title: Gerenciar um concierge
 description: Saiba como criar uma Brand Concierge a partir de um site, configurar suas integrações, habilidades, instruções, tom e estilo visual e testá-la antes da implantação.
 toc: true
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
-source-wordcount: '1967'
+source-wordcount: '1804'
 ht-degree: 0%
 
 ---
@@ -74,10 +74,10 @@ Selecione **Procurar Integrações** para exibir o catálogo de integração dis
 |---|---|---|
 | Pesquisa na knowledge base | Pesquisa o conteúdo do site | Configurado automaticamente quando o concierge é criado |
 | Pesquisa com IA de conteúdo | Pesquisa conteúdo do AEM Sites | Relevante para clientes do AEM Sites as a Cloud Service |
-| Catálogo de produtos | Exibe cartões de produto ou links de uma lista de produtos carregada | Destinado a catálogos menores que não sejam de comércio |
+| Vinculação de entidade | Resolve o produto ou as menções de marca na mensagem de um visitante para entidades de catálogo específicas | Integração de suporte, normalmente usada junto com uma integração de pesquisa em vez de sozinha |
 | COMMERCE MCP | Conecta-se a um catálogo Adobe Commerce em tempo real para pesquisa de produtos, detalhes de produtos e comparações | Não habilitado por padrão; requer códigos ou chaves do comércio ou da equipe de TI |
-| Reserva de Reunião | Permite aos visitantes reservar uma reunião com um representante de vendas | Recurso B2B |
-| Bate-papo ao vivo | Conecta visitantes com um representante de vendas ao vivo | Recurso B2B |
+| Reserva de Reunião | Permite aos visitantes reservar uma reunião com um representante de vendas | Exige configuração com o calendário de um representante de vendas |
+| Bate-papo ao vivo | Conecta visitantes com um representante de vendas ao vivo | Exige configuração com a disponibilidade de um representante de vendas |
 
 ### Ativar e configurar uma integração
 
@@ -96,14 +96,6 @@ Selecione **Procurar Integrações** para exibir o catálogo de integração dis
 
 É possível adicionar mais de uma instância da mesma integração, como instâncias que apontam para diferentes fontes de conhecimento. Uma habilidade pode ser configurada para usar uma instância de integração específica.
 
-### Informações de integração que exigem confirmação
-
-Os seguintes detalhes não foram estabelecidos no material de origem e devem ser confirmados antes da publicação como documentação do produto:
-
-- A URL de produção completa para entrar no `experienceplatform.adobe.com`.
-- Se um concierge tem um limite no número de instâncias de integração.
-- O roteiro e o processo para integrações personalizadas ou próprias, que foram mencionados como planejados, mas não detalhados.
-
 ## Configurar habilidades
 
 As habilidades determinam o que um porteiro pode fazer pelos visitantes. Selecione **Procurar Habilidades** para exibir o catálogo de habilidades disponível.
@@ -111,6 +103,7 @@ As habilidades determinam o que um porteiro pode fazer pelos visitantes. Selecio
 | Habilidade | Finalidade | Integração ou configuração necessária |
 |---|---|---|
 | Aviso do site | Responde perguntas gerais sobre a marca, incluindo perguntas frequentes, políticas, preços, instruções e tópicos de suporte | Conteúdo do site; ativo por padrão |
+| Aviso do produto | Ajuda os visitantes a descobrir e pesquisar produtos por meio de cartões de produto baseados em nome e perguntas sobre produtos em prosa | Pesquisa na Base de Dados de Conhecimento, Vinculação de Entidade |
 | Descoberta do catálogo Adobe Commerce | Pesquisa, pesquisa, filtra e recupera detalhes sobre produtos de um catálogo em tempo real | Integração do Commerce MCP |
 | Comparação de produtos do Adobe Commerce | Fornece uma comparação lado a lado de produtos nomeados | Integração do Commerce MCP |
 | Reservar Reunião com Vendas | Sugere e facilita a marcação de uma reunião | Integração de reserva de reunião |
@@ -131,10 +124,6 @@ As habilidades determinam o que um porteiro pode fazer pelos visitantes. Selecio
 >[!TIP]
 >
 >Se duas habilidades puderem responder à mesma pergunta, o roteamento poderá se tornar inconsistente. Mantenha acionadores de habilidades distintos e específicos em vez de usar intenções sobrepostas.
-
-### Informações de habilidades personalizadas que exigem confirmação
-
-O material de origem menciona um recurso planejado para criar habilidades totalmente personalizadas, mas não fornece um roteiro ou processo. Confirme as etapas de disponibilidade e criação antes de documentar esse recurso como compatível.
 
 ## Adicionar instruções de concierge
 
@@ -191,7 +180,7 @@ Os componentes de Chat controlam os elementos individuais que os visitantes veem
 | Feedback | O controle de classificação de miniatura ou miniatura mostrado após cada resposta |
 | Cartão do produto | O layout e o estilo dos cartões de produto, incluindo cores e botões |
 
-## Configurar recursos B2B
+## Configurar a reserva da reunião e o chat ao vivo
 
 A Reserva de Reunião e o Bate-papo ao Vivo permitem que os visitantes agendem reuniões com os representantes de vendas ou iniciem um bate-papo ao vivo com um representante. Esses recursos são fornecidos por um produto complementar chamado Sales Qualifier.
 
@@ -233,14 +222,6 @@ Quando os recursos estiverem ativos:
 - Um Relatório de Desempenho de Reunião está disponível no Analytics.
 - Envolvimentos de reunião e chat são enviados para a Marketo como atividades, junto com dados de atividade existentes.
 
-### Informações B2B que exigem confirmação
-
-O material de origem identifica os seguintes itens como não resolvidos:
-
-- O Live Chat não tem seu próprio painel de análise; isso foi descrito como uma lacuna de produto em andamento, em vez de uma lacuna de documentação.
-- O caminho de entrada `experienceplatform.adobe.com` exato para o Sales Qualifier.
-- Se a Reserva de Reunião e o Bate-papo ao Vivo exigem licenças ou direitos separados.
-
 ## Compartilhar um link de visualização
 
 Um link de visualização compartilhável permite que as partes interessadas revisem e interajam com uma concierge sem acesso ao Composer e sem implantar a concierge em um site ativo.
@@ -250,14 +231,6 @@ Um link de visualização compartilhável permite que as partes interessadas rev
 1. Compartilhe o link com revisores.
 
 1. Os revisores podem interagir com a concierge por meio do link sem fazer logon no Composer.
-
-### Informações do link de visualização que exigem confirmação
-
-Confirme os detalhes a seguir antes de publicar esse procedimento como um fluxo de trabalho completo do produto:
-
-- O local e rótulo exatos da ação de compartilhamento na interface do usuário.
-- Se os links de visualização expiram ou podem ser revogados.
-- Se o uso do link de visualização é rastreado separadamente do live analytics.
 
 ## Testar antes da implantação
 

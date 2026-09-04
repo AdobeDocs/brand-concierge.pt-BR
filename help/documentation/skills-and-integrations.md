@@ -3,9 +3,9 @@ title: Estrutura de habilidades e integrações
 description: Saiba como as habilidades e integrações funcionam juntas na estrutura de concierge. As habilidades definem comportamento, enquanto as integrações se conectam aos dados e fornecem capacidade.
 role: User, Admin
 level: Beginner
-source-git-commit: 16136f0d5470a39cbf260f4b1eadc6918d0212b4
+source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
-source-wordcount: '1619'
+source-wordcount: '1698'
 ht-degree: 0%
 
 ---
@@ -64,27 +64,31 @@ Uma integração fornece capacidade, mas não exerce julgamento. Ele aguarda par
 
 ## Integrações disponíveis prontas para uso
 
-Abaixo estão as quatro integrações mostradas no painel **Procurar integrações** do Composer.
+Abaixo estão as integrações mostradas no painel **Procurar integrações** do Composer.
 
 | Integração | O que faz | Notas |
 | --- | --- | --- |
 | Pesquisa na knowledge base | Source para informações de produto, preços, recursos e documentação de uma marca, preenchido por meio de um rastreo de sites | Este é criado automaticamente na criação do concierge, preenchido pelo rastreo de sites |
 | Pesquisa com IA de conteúdo | Pesquisa o conteúdo da marca via IA de conteúdo | Uma fonte de conteúdo alternativa; geralmente, apenas uma das Pesquisas com IA de Pesquisa ou Conteúdo da Base de Dados de Conhecimento é necessária por vez |
-| Vinculação de entidade/mapeamento de catálogo de produtos | Resolve o produto ou as menções de marca na mensagem de um usuário para entidades de catálogo específicas | Integração de suporte, usada junto com uma integração de pesquisa em vez de sozinha |
+| Vinculação de entidade | Resolve o produto ou as menções de marca na mensagem de um usuário para entidades de catálogo específicas | Integração de suporte, usada junto com uma integração de pesquisa em vez de sozinha |
 | COMMERCE MCP | Servidor MCP do Commerce gerenciado pela Adobe: pesquisa de produtos, detalhes, variantes e descoberta de facetas/atributos, com o apoio do Adobe Live Search | Não está na linha de base; adicionado manualmente para casos de uso do Commerce |
+| Reserva de Reunião | Permite que os visitantes agendem uma reunião com um representante de vendas | Exige configuração com o calendário de um representante de vendas, por meio do produto Sales Qualifier associado |
+| Bate-papo ao vivo | Conecta visitantes com um representante de vendas ao vivo | Requer configuração com a disponibilidade de um representante de vendas, por meio do produto Sales Qualifier complementar |
 
 ![Painel de integrações de navegação mostrando quatro cartões de integração: Pesquisa com IA de Conteúdo, Vinculação de Entidade, Pesquisa na Base de Dados de Conhecimento e Commerce MCP](assets/skills-and-integrations-2.png){width="800" zoomable="yes"}
 
 ## Habilidades disponíveis imediatamente
 
-Quatro habilidades estão no catálogo. Cada uma lista suas integrações recomendadas.
+Abaixo estão as habilidades mostradas no painel **Navegar habilidades** do Composer. Cada uma lista suas integrações recomendadas.
 
 | Habilidade | Para que serve? | Integrações recomendadas |
 | --- | --- | --- |
 | Aviso do site | Perguntas gerais sobre a marca: políticas, perguntas frequentes, programas, instruções e suporte | Pesquisa na knowledge base, Pesquisa com IA de conteúdo e vinculação da entidade |
-| Aviso do produto | Descubra e pesquise produtos: cartões de produto com base em nome e perguntas sobre produtos em prosa | Pesquisa na Base de Dados de Conhecimento, Vinculação de Entidade/Mapeamento de Catálogo |
+| Aviso do produto | Descubra e pesquise produtos: cartões de produto com base em nome e perguntas sobre produtos em prosa | Pesquisa na Base de Dados de Conhecimento, Vinculação de Entidade |
 | Descoberta do catálogo Adobe Commerce | Pesquise, navegue, filtre e obtenha detalhes completos sobre os produtos em relação a um catálogo em tempo real | Ferramentas do Commerce MCP: Pesquisar produtos Commerce, detalhes do produto, variantes de produto, aspectos do produto e atributos pesquisáveis |
 | Comparação de produtos do Adobe Commerce | Comparação lado a lado de dois ou mais produtos nomeados em uma tabela para o Commerce | Ferramentas do Commerce MCP: pesquise produtos da Commerce, detalhes do produto |
+| Reservar Reunião com Vendas | Sugere e facilita a realização de uma reunião com um representante de vendas | Integração de reserva de reunião |
+| Bate-papo ao vivo com o setor de vendas | Sugere e facilita uma transferência por chat ao vivo para um representante de vendas | Integração com o bate-papo ao vivo |
 
 As duas habilidades de comércio são recursos exclusivos de catálogo e dependem da integração do MCP do Commerce, que não faz parte da linha de base. Em um concierge não comercial, o Site Advisory e o Product Advisory são executados em relação à Pesquisa da knowledge base criada automaticamente.
 

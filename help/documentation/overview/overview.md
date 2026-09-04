@@ -1,9 +1,9 @@
 ---
 title: Visão geral do Brand Concierge
 description: Saiba o que é o Brand Concierge, como seus principais componentes se encaixam e o glossário de termos principais que você encontrará na interface do Composer.
-source-git-commit: 3da67605a43e949046260651253bbe0f2f0215fc
+source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '509'
 ht-degree: 1%
 
 ---
@@ -21,17 +21,17 @@ Uma implantação do Brand Concierge tem duas partes principais:
 | **Experiência do visitante** | A superfície voltada para a marca, como um site ou aplicativo móvel, em que os visitantes se envolvem com o porteiro e obtêm respostas em tempo real. |
 | **Compositor** | A interface do profissional usada para projetar experiências de concierge e gerenciar concierges, integrações, configurações, avaliações, implantação e análises. |
 
-## Módulos do compositor abordados neste guia
+## Módulos do compositor
 
-No Composer, os principais módulos (e onde são abordados neste guia) são:
+No Composer, os principais módulos são:
 
-- Gerenciamento de usuários (Seção 3)
-- Criação e gerenciamento da fonte de conhecimento, compartilhados entre concierges (Seção 4)
-- Gerenciamento de concierge: integrações, habilidades, instruções de concierge, tom e voz, estilo visual e componentes de chat (Seção 5)
-- Avaliação (Seção 6)
-- Implantação (seção 7)
-- Lista de verificação da ativação (seção 8)
-- Analytics (Seção 9)
+- [Gerenciamento de usuários e de acesso](../user-and-access-management/add-a-user-to-the-org.md)
+- [Criação e gerenciamento da fonte de conhecimento](../knowledge-sources/knowledge-sources.md), compartilhados entre concierges
+- [Gerenciamento de concierge](../concierge-management/concierge-management.md): integrações, habilidades, instruções de concierge, tom e voz, estilo visual e componentes de chat
+- [Avaliação](../evaluation/evaluation.md)
+- [Implantação](../deployment/deployment.md)
+- [Lista de verificação de ativação](../go-live-checklist/go-live-checklist.md)
+- [Analytics](../analytics/analytics.md)
 
 ## Como as partes se conectam
 
@@ -58,4 +58,4 @@ Esses termos aparecem na interface do Composer.
 
 >[!NOTE]
 >
->Normalmente, os profissionais de marketing podem ignorar completamente a Seção 3, *Gerenciamento de usuários e acessos* (alguém da TI o conclui uma vez) e começar na Seção 4, *Fontes de conhecimento*. Retorne à Seção 3 somente ao configurar novos colegas de equipe.
+>Normalmente, os profissionais de marketing podem ignorar completamente o [Gerenciamento de usuários e acessos](../user-and-access-management/add-a-user-to-the-org.md) (alguém na TI o conclui uma vez) e começar em [Fontes de conhecimento](../knowledge-sources/knowledge-sources.md). Retorne ao gerenciamento de usuários e acesso somente ao configurar novos colegas de equipe.
