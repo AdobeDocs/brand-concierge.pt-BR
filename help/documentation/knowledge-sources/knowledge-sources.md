@@ -2,9 +2,9 @@
 title: Criar e gerenciar fontes de conhecimento para o Brand Concierge
 description: Saiba como criar fontes de conhecimento do AEM Sites, de Links de sites e de Catálogos de produtos para o Brand Concierge, monitorar o status do processamento e resolver problemas de rastreo.
 hide: true
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+source-git-commit: da4b30fa292b911987aebec378af420b293ea594
 workflow-type: tm+mt
-source-wordcount: '873'
+source-wordcount: '864'
 ht-degree: 1%
 
 ---
@@ -21,8 +21,6 @@ Um concierge responde a perguntas usando apenas suas fontes de conhecimento conf
 >Se um visitante perguntar sobre informações fora das fontes de conhecimento configuradas, o concierge foi projetado para indicar que não tem as informações, em vez de gerar uma resposta não compatível. Use o processo de avaliação para verificar esse comportamento.
 
 ## Escolha uma fonte de conhecimento
-
-O material de origem descreve os seguintes tipos de origem de conhecimento:
 
 | Fonte de conhecimento | Use-o quando | Recurso principal |
 | --- | --- | --- |

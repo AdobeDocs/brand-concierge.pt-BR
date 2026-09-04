@@ -2,9 +2,9 @@
 title: Implantar uma concierge
 description: Saiba como implantar uma Brand Concierge configurando uma sequência de dados, instalando o script de implantação, definindo regras de superfície e verificando a implantação.
 hide: true
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+source-git-commit: da4b30fa292b911987aebec378af420b293ea594
 workflow-type: tm+mt
-source-wordcount: '688'
+source-wordcount: '572'
 ht-degree: 0%
 
 ---
@@ -80,17 +80,3 @@ Depois que a equipe do site instalar o script e salvar as regras de superfície,
 >[!TIP]
 >
 >Teste uma página incluída e uma página excluída. Isso confirma que as regras de superfície estão funcionando como pretendido antes que o concierge seja disponibilizado amplamente.
-
-## Perguntas abertas e notas de escopo
-
-O material de origem não define os seguintes detalhes:
-
-- A lista completa e canônica de tipos de evento enviados para o fluxo de dados. Os exemplos fornecidos incluem cliques, envios de formulário, reuniões reservadas e bate-papos ao vivo, mas a lista completa deve ser confirmada com a engenharia.
-- Se a configuração da sequência de dados é diferente entre clientes de avaliação e pagos.
-- O produto de análise específico no qual a atividade de sequência de dados é exibida; o material de origem se refere a isso somente como &quot;Analytics&quot;.
-
-Essas questões podem se sobrepor a requisitos de telemetria separados e devem ser resolvidas com a equipe de engenharia ou de produto apropriada antes da publicação das orientações de implantação como referência definitiva.
-
-## Conteúdo de origem incompleto
-
-A origem fornecida termina abruptamente na etapa 8, que não tem conteúdo.

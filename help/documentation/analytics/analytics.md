@@ -2,9 +2,9 @@
 title: Analisar desempenho de concierge
 description: Saiba como revisar análises de concierge, inspecionar transcrições de conversas, adicionar perguntas de visitantes aos conjuntos de avaliação e abrir relatórios do Customer Journey Analytics.
 hide: true
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+source-git-commit: da4b30fa292b911987aebec378af420b293ea594
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '442'
 ht-degree: 0%
 
 ---
@@ -80,10 +80,6 @@ O painel de controle do CJA inclui:
 - Recomendações de concierge feitas durante conversas.
 
 Use o painel para examinar tendências ao longo do tempo e identificar alterações no envolvimento, feedback, intenção e sentimento do visitante.
-
-## Exportar conversas
-
-O material de origem identifica a ID de conversação como uma maneira de corresponder transcrições com registros em outros sistemas, mas não documenta um mecanismo de exportação.
 
 >[!IMPORTANT]
 >
