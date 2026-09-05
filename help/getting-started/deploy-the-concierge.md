@@ -32,6 +32,6 @@ A implantação do Adobe Brand Concierge o disponibiliza para visitantes reais d
 * Instalação de componente em comparação às opções de instalação de página inteira do script
 * Como configurar regras de superfície correspondendo domínios e caminhos (qualquer, começa com, termina com, é igual a)
 
->[!VIDEO](https://video.tv.adobe.com/v/3502969?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3502985?captions=por_br&learn=on)
 
 Para obter a documentação, consulte [Implantar uma concierge](../documentation/deployment/deployment.md).
