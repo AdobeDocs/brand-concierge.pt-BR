@@ -1,5 +1,5 @@
 ---
-title: Medir qualidade e definir medidas de proteção - Vídeo
+title: Medir qualidade e definir medidas de proteção
 description: Saiba como criar um conjunto dourado de perguntas e respostas ideais para medir a qualidade do Adobe Brand Concierge e definir medidas de proteção para perguntas confidenciais de visitantes.
 topic: Personalization,Integrations
 role: Developer
@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 174
 last-substantial-update: 2026-09-29
 jira: KT-22188
-source-git-commit: 4cc80eef685fbfc26adaf0b9c47f61e935d45882
+source-git-commit: cd3fb3664f1eb60cba7cae83b8539871b3dcfb72
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '166'
 ht-degree: 0%
 ---
 
@@ -31,7 +31,6 @@ Antes de iniciar o Adobe Brand Concierge, você precisa de uma maneira de medir 
 * Quantos pares de perguntas e respostas incluir e quais categorias cobrir
 * Por que os exemplos fora do escopo são importantes e como o concierge os rejeita
 * Usar um primeiro rascunho gerado por IA do seu conjunto dourado e refiná-lo
-* Definição de regras para reserva de reunião, entrega de representante ao vivo, preços, reivindicações legais e menções do concorrente
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503942/?learn=on)
 
