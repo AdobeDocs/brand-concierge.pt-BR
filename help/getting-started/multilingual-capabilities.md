@@ -38,6 +38,6 @@ O Adobe Brand Concierge pode responder no idioma selecionado quando você cria u
 * Como o idioma de resposta selecionado afeta respostas e cartões de prompt de início
 * Como as fontes de conhecimento importadas, como catálogos e URLs de sites, oferecem suporte a respostas localizadas
 
->[!VIDEO](https://video.tv.adobe.com/v/3503888?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503892?captions=por_br&learn=on)
 
 Para obter a documentação, consulte a [ajuda do Brand Concierge](../documentation/overview.md).

@@ -40,6 +40,6 @@ O Adobe Brand Concierge oferece suporte ao modo de conversação de voz para voz
 * Como o concierge continua sendo uma experiência multimodal completa, ainda retornando imagens, texto e links durante uma conversa por voz
 * Como desligar a voz se ela não for mais desejada
 
->[!VIDEO](https://video.tv.adobe.com/v/3503486?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503490?captions=por_br&learn=on)
 
 Para obter a documentação, consulte a [ajuda do Brand Concierge](../documentation/overview.md).
