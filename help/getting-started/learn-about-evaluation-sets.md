@@ -6,15 +6,22 @@ role: User
 level: Beginner
 doc-type: Technical Video
 duration: 265
-last-substantial-update: 2026-09-01T00:00:00Z
+last-substantial-update: 2026-09-01T00:00:00.000Z
 jira: KT-22481
-source-git-commit: 2255c486351718718d7f729ae7f870446c955793
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
-
 ---
-
 # Saiba mais sobre conjuntos de avaliação
 
 As avaliações informam se o Adobe Brand Concierge está respondendo corretamente, permanecendo no escopo e lidando com perguntas complexas de forma segura. Este vídeo aborda os três tipos de avaliação — Funcional, Fora de alcance e Protegido — e mostra como criar um conjunto de avaliação, executá-lo e revisar os resultados sinalizados antes de você entrar no ar.

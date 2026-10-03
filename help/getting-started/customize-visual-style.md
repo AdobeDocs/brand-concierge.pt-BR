@@ -1,20 +1,27 @@
 ---
 title: Personalize o estilo visual do seu concierge - Vídeo
-description: Saiba como personalizar o estilo visual do seu Brand Concierge do Adobe, incluindo a mensagem de boas-vindas, os cartões de aviso de início e as cores do cartão.
+description: Saiba como personalizar o estilo visual de sua Adobe Brand Concierge, incluindo a mensagem de boas-vindas, os cartões de prompt de início e as cores do cartão.
 topic: Personalization
 role: User
 level: Beginner
 doc-type: Technical Video
 duration: 234
-last-substantial-update: 2026-08-25T00:00:00Z
+last-substantial-update: 2026-08-25T00:00:00.000Z
 jira: KT-22408
-source-git-commit: e4579efe202448c0c4dc85b3444abac6ed2834c2
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
-
 ---
-
 # Personalizar o estilo visual do concierge
 
 Seu Adobe Brand Concierge começa com escolhas visuais que o Adobe já fez para você — uma paleta de cores, fontes e imagens de cartão extraídas do seu site. Neste vídeo, você analisa essas opções e personaliza a mensagem de boas-vindas e os cartões de prompt do iniciador para melhor corresponder à sua marca.

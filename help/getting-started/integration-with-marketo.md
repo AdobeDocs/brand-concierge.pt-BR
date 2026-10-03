@@ -6,15 +6,22 @@ level: Beginner
 duration: 215
 topic: Integrations
 doc-type: Tutorial
-last-substantial-update: 2026-06-10T00:00:00Z
+last-substantial-update: 2026-06-10T00:00:00.000Z
 jira: KT-21468
-source-git-commit: e77153743febdcd411ce973172c82a7a713b4135
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
-
 ---
-
 # Integração com o Marketo
 
 Saiba como o Brand Concierge fecha o loop entre seu site e o Marketo Engage. Veja como as conversas do visitante (da captura de leads no chat até a reserva de reunião) fluem automaticamente para o Marketo como dados de atividade nativos e como usar esses dados em Campanhas inteligentes de acionador e em lote.
@@ -29,6 +36,6 @@ Saiba como o Brand Concierge fecha o loop entre seu site e o Marketo Engage. Vej
 * O tipo de atividade nativa &quot;Reunião Programada no Concierge&quot; registrada no Log de Atividades do lead, com contexto completo: duração da reunião, etapa de vendas, tipo de roteiro e status da reserva
 * Como usar os tipos de atividades do Brand Concierge nas Campanhas inteligentes do Marketo — como acionadores, filtros ou dados de campanha em lote
 
->[!VIDEO](https://video.tv.adobe.com/v/3492229?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3492254?captions=por_br&learn=on)
 
 Para obter a documentação, consulte a [ajuda do Brand Concierge](../documentation/overview.md).

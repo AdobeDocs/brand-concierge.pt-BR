@@ -2,13 +2,14 @@
 title: Criar e gerenciar fontes de conhecimento para o Brand Concierge
 description: Saiba como criar fontes de conhecimento do AEM Sites, de Links de sites e de Catálogos de produtos para o Brand Concierge, monitorar o status do processamento e resolver problemas de rastreo.
 hide: true
-source-git-commit: 3f05cb0dd8c11620b0ed7e254d0f4f9b24408b08
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '856'
 ht-degree: 1%
-
 ---
-
 
 # Criar e gerenciar fontes de conhecimento para o Brand Concierge
 

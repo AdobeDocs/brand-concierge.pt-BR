@@ -6,16 +6,25 @@ role: User
 level: Beginner
 doc-type: Technical Video
 duration: 215
-last-substantial-update: 2026-09-14
+last-substantial-update: 2026-09-14T00:00:00.000Z
 jira: KT-22594
-source-git-commit: e15924679ac2731ef367416160368459ef88167a
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
 ---
 # Conversação por voz
 
-O Adobe Brand Concierge oferece suporte ao modo de conversação de voz para voz, sem o auxílio das mãos, que permite que os clientes falem com o porteiro em vez de digitar. Este vídeo descreve como ativar o modo de voz, como a detecção automática de voz elimina a necessidade de pressionar qualquer botão e como a voz se encaixa na experiência multimodal completa da porteira, juntamente com respostas visuais e de texto.
+O Adobe Brand Concierge oferece suporte ao modo de conversação de voz para voz, sem o auxílio das mãos, que permite que os clientes falem com o porteiro em vez de digitarem. Este vídeo descreve como ativar o modo de voz, como a detecção automática de voz elimina a necessidade de pressionar qualquer botão e como a voz se encaixa na experiência multimodal completa da porteira, juntamente com respostas visuais e de texto.
 
 ## Para quem é este vídeo?
 
