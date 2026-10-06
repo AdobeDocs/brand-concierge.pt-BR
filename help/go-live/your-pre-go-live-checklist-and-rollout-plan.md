@@ -35,7 +35,7 @@ Antes de iniciar o Adobe Brand Concierge, valide o conteúdo, a configuração d
 * Obtenha a aprovação das partes interessadas e confirme a disponibilidade técnica com os recursos da Adobe quando estiverem envolvidos.
 * Planeje uma implantação gradual, avançando somente quando os resultados suportarem o próximo estágio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504106/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504110/?captions=por_br&learn=on)
 
 Comece com colegas de equipe internos e teste fluxos completos de ponta a ponta. Em seguida, considere uma pequena implantação inicial, como 5% das páginas de destino, antes de expandir para 25%, 50% e, por fim, 100%. Esses são estágios de exemplo, não um agendamento fixo. Continue a monitorar no painel de análise pelo menos uma vez por semana após a implantação completa.
 

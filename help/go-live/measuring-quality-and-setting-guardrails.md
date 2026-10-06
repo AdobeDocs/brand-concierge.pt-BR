@@ -41,7 +41,7 @@ Antes de iniciar o Adobe Brand Concierge, você precisa de uma maneira de medir 
 * Por que os exemplos fora do escopo são importantes e como o concierge os rejeita
 * Usar um primeiro rascunho gerado por IA do seu conjunto dourado e refiná-lo
 
->[!VIDEO](https://video.tv.adobe.com/v/3503942/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503946/?captions=por_br&learn=on)
 
 ## Tutoriais relacionados
 
