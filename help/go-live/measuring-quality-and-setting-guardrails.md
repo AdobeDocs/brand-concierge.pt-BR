@@ -17,9 +17,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: b1cb207b8624703baa0247f2b08c3f522ab4d0db
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '213'
 ht-degree: 0%
 ---
 
@@ -42,5 +42,14 @@ Antes de iniciar o Adobe Brand Concierge, você precisa de uma maneira de medir 
 * Usar um primeiro rascunho gerado por IA do seu conjunto dourado e refiná-lo
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503946/?captions=por_br&learn=on)
+
+## Tutoriais relacionados
+
+* [Bem-vindo à sua jornada de publicação](welcome.md)
+* [Como moldar sua voz e widget](voice-and-visuals.md)
+* [Preparação do conteúdo e da jornada do visitante](content-and-journey.md)
+* [Configuração técnica e recursos opcionais](technical-setup-and-optional-features.md)
+* [Sua lista de verificação pré-ativação e seu plano de implantação](your-pre-go-live-checklist-and-rollout-plan.md)
+* [Lista de reprodução da lista de verificação de ativação do Brand Concierge](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
 
 Para obter a documentação, consulte a [ajuda do Brand Concierge](../documentation/overview.md).
