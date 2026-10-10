@@ -50,6 +50,6 @@ Antes de iniciar o Adobe Brand Concierge, você precisa de uma maneira de medir 
 * [Preparação do conteúdo e da jornada do visitante](content-and-journey.md)
 * [Configuração técnica e recursos opcionais](technical-setup-and-optional-features.md)
 * [Sua lista de verificação pré-ativação e seu plano de implantação](your-pre-go-live-checklist-and-rollout-plan.md)
-* [Lista de reprodução da lista de verificação de ativação do Brand Concierge](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
+* [Lista de reprodução da lista de verificação de ativação do Brand Concierge](https://experienceleague.adobe.com/pt-br/playlists/brand-concierge-go-live-checklist)
 
 Para obter a documentação, consulte a [ajuda do Brand Concierge](../documentation/overview.md).

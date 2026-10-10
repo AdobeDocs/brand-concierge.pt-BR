@@ -46,6 +46,6 @@ Comece com colegas de equipe internos e teste fluxos completos de ponta a ponta.
 * [Preparação do conteúdo e da jornada do visitante](content-and-journey.md)
 * [Medição da qualidade e fixação das medidas de proteção](measuring-quality-and-setting-guardrails.md)
 * [Configuração técnica e recursos opcionais](technical-setup-and-optional-features.md)
-* [Lista de reprodução da lista de verificação de ativação do Brand Concierge](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
+* [Lista de reprodução da lista de verificação de ativação do Brand Concierge](https://experienceleague.adobe.com/pt-br/playlists/brand-concierge-go-live-checklist)
 
 Para obter a documentação, consulte a [ajuda do Brand Concierge](../documentation/overview.md).
