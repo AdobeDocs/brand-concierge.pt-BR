@@ -1,6 +1,6 @@
 ---
-title: Habilitar conversas de voz no Brand Concierge
-description: Descrição
+title: Habilitar conversas de voz
+description: Ative o modo Ditado e Voz no Brand Concierge para que os visitantes possam falar sem interferências e ainda obter texto, imagens e links nas respostas do concierge.
 role: User, Admin
 level: Beginner
 product_v2:
@@ -14,54 +14,55 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: d0018106bf63c9c98c90c6e0497ed83439bf3026
+source-git-commit: 26648a7597148a5a463c2ae695598a5558ad8f48
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '320'
 ht-degree: 0%
 ---
-# Habilitar conversas de voz no Brand Concierge
+# Habilitar conversas de voz
 
-Configurar entrada de voz e respostas de voz para uma Brand Concierge. Você pode habilitar a capacidade independentemente ou ativar ambos para uma conversa baseada em voz.
+As conversas de voz no Adobe Brand Concierge permitem que seus visitantes falem com um concierge em vez de digitar. A voz suporta interações sem o uso de mãos e mantém a experiência multimodal, para que o porteiro ainda possa fornecer texto, imagens e links.
 
 ## Como ativar a voz
 
-1. Na tela **Residência**, em **Seus Atendimentos**, selecione o Atendimento desejado.
+1. Na tela **Residência**, em **Seus Atendimentos**, selecione o concierge que deseja editar.
 
-   CAPTURA DE TELA
+   ![Tela inicial do Brand Concierge com o cartão Adobe concierge destacado em Seus Concierges](assets/voice-conversations-1.png){width="800" zoomable="yes"}
 
-2. Selecione a guia **Design**.
-3. No menu esquerdo, selecione **Voz**.
-4. No painel Voz, ative as opções necessárias:
-   - **Ditado** — Transcreve o que o usuário diz em texto.
-   - **Modo de Voz** — Lê as respostas do Atendedor em voz alta.
-5. Selecione **Salvar** na parte inferior do painel Voz. **Salvar** não estará disponível até que você altere uma configuração.
+1. Na guia **Design**, selecione **Voz**.
 
-Ambas as opções estão desativadas por padrão. Habilita tanto para entrada por voz quanto para respostas por voz.
+   ![Guia Design de um concierge com a opção Voz realçada no painel esquerdo em Expressão de marca](assets/voice-conversations-2.png){width="800" zoomable="yes"}
 
-OUTRA VERSÃO
+   >[!NOTE]
+   >
+   >Na primeira vez que ativar a voz, você deverá revisar o aviso de privacidade antes de continuar.
 
-## Habilitar e usar conversas de voz no Adobe Brand Concierge
+1. No painel _Voz_, habilite as opções desejadas e selecione **Salvar**.
+   - **Ditado**: transcreve em texto o que seus visitantes dizem.
+   - **Modo de Voz**: Lê as respostas da concierge em voz alta.
 
-As conversas de voz do Adobe Brand Concierge permitem que os visitantes falem com um concierge em vez de digitar. O Modo de voz oferece suporte a interações mãos-livres, mantendo a experiência multimodal: o porteiro ainda pode fornecer texto, imagens e links.
+   ![Painel de voz com as opções Ditado e Modo de Voz ativadas e o botão Salvar na parte inferior](assets/voice-conversations-3.png)
 
-## Ativar modo de voz
+   >[!NOTE]
+   >
+   >Os controles disponíveis podem variar dependendo da configuração do concierge.
 
-1. Abra o gerenciamento de concierge e selecione o concierge que deseja configurar.
-2. Ative o **Modo de Voz**.
-3. Na primeira vez que a voz for usada, revise o aviso de privacidade mostrado na experiência antes de continuar.
+## A experiência do visitante
 
-Os controles específicos disponíveis podem depender da configuração do concierge.
+### Os visitantes podem falar naturalmente
 
-## Iniciar uma conversa por voz
+Depois de ativar a voz, os visitantes podem falar naturalmente com o porteiro. A detecção automática de fala começa e para a escuta, de modo que os visitantes não precisam selecionar um botão para cada turno.
 
-Depois que o Modo de voz estiver ativado, fale naturalmente com o concierge. A detecção automática de fala é iniciada e interrompe a escuta sem exigir que você pressione um botão a cada volta.
+Os visitantes também podem interromper o concierge enquanto estiver falando, de modo que não precisam aguardar a conclusão da resposta.
 
-Você pode continuar a conversa com perguntas de acompanhamento. As conversas de voz também suportam interrupções naturais enquanto o porteiro está falando, então você pode falar novamente em vez de esperar a resposta terminar.
+### Texto e respostas visuais
 
-## Obter respostas de texto e visuais
+A voz não limita o porteiro ao áudio. Durante uma conversa por voz, o porteiro ainda pode retornar texto, imagens e links como parte de sua resposta.
 
-O Modo de Voz não limita o concierge ao áudio. Durante uma conversa por voz, o porteiro ainda pode retornar texto, imagens e links como parte de sua resposta.
+## Como desativar a voz
 
-## Desativar Modo de Voz
+1. Na tela **Residência**, em **Seus Atendimentos**, selecione o concierge que deseja editar.
 
-Se a voz não for mais desejada para a experiência de concierge, desative o **Modo de Voz** no gerenciamento de concierge.
+1. Na guia **Design**, selecione **Voz**.
+
+1. No painel _Voz_, desabilite as opções que deseja desativar e selecione **Salvar**.
