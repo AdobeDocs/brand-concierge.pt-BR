@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Explorar o Adobe Brand Concierge
-source-git-commit: e0e9e4ba50fdc3af00f603a44188cc845d656306
+source-git-commit: 0d9fa76d0fe3494daa7189ab9e9984a423ee1d6e
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 14%
+source-wordcount: '190'
+ht-degree: 13%
 ---
 
 # Adobe Brand Concierge {#content}
@@ -22,6 +22,7 @@ ht-degree: 14%
   + [Saiba mais sobre conjuntos de avaliação](../getting-started/learn-about-evaluation-sets.md)
   + [Implantar o concierge](../getting-started/deploy-the-concierge.md)
   + [Exportar conversas usando o Adobe CX Enterprise Coworker](../getting-started/exporting-conversations-using-adobe-cx-enterprise-coworker.md)
+  + [Exportar conversas usando o serviço de consulta e o terminal](../getting-started/exporting-conversations-using-query-service-and-terminal.md)
 + Guia de ativação {#go-live-guide}
   + [Bem-vindo à sua jornada de publicação](../go-live/welcome.md)
   + [Preparação do conteúdo e experiência do visitante](../go-live/content-and-journey.md)
