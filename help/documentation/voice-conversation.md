@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 26648a7597148a5a463c2ae695598a5558ad8f48
+source-git-commit: 4a54cf90e8233e86cabf9329a78cb10f35a630f6
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '324'
 ht-degree: 0%
 ---
 # Habilitar conversas de voz
@@ -25,13 +25,13 @@ As conversas de voz no Adobe Brand Concierge permitem que seus visitantes falem 
 
 ## Como ativar a voz
 
-1. Na tela **Residência**, em **Seus Atendimentos**, selecione o concierge que deseja editar.
+1. Na tela **Página Inicial**, em **Seus Atendimentos**, selecione a sala de espera onde deseja habilitar a voz.
 
-   ![Tela inicial do Brand Concierge com o cartão Adobe concierge destacado em Seus Concierges](assets/voice-conversations-1.png){width="800" zoomable="yes"}
+   ![Tela inicial do Brand Concierge com o cartão Adobe concierge destacado em Seus Concierges](assets/voice-conversations-1.png){width="600" zoomable="yes"}
 
 1. Na guia **Design**, selecione **Voz**.
 
-   ![Guia Design de um concierge com a opção Voz realçada no painel esquerdo em Expressão de marca](assets/voice-conversations-2.png){width="800" zoomable="yes"}
+   ![Guia Design de um concierge com a opção Voz realçada no painel esquerdo em Expressão de marca](assets/voice-conversations-2.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -61,7 +61,7 @@ A voz não limita o porteiro ao áudio. Durante uma conversa por voz, o porteiro
 
 ## Como desativar a voz
 
-1. Na tela **Residência**, em **Seus Atendimentos**, selecione o concierge que deseja editar.
+1. Na tela **Residência**, em **Seus Atendedores**, selecione o concierge onde deseja desabilitar a voz.
 
 1. Na guia **Design**, selecione **Voz**.
 
