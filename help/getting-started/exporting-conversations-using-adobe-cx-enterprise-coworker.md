@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 175
 last-substantial-update: 2026-10-14
 jira: KT-22743
-source-git-commit: 0d9fa76d0fe3494daa7189ab9e9984a423ee1d6e
+source-git-commit: de739f5ff45550a953e88a62c42c6beade126a96
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '211'
 ht-degree: 0%
 ---
 # Exportar conversas usando o Adobe CX Enterprise Coworker
@@ -28,11 +28,11 @@ Saiba como salvar e exportar conversas do Adobe Brand Concierge usando o Serviç
 * Entenda por que o Data Distiller é necessário para o download de CSV mostrado no vídeo
 * Siga a política de tratamento de dados de sua organização ao armazenar exportações que podem conter informações de identificação pessoal (PII)
 
->[!VIDEO](https://video.tv.adobe.com/v/3504550?captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3504546)
 
 >[!NOTE]
 >
-> Se o Data Distiller não estiver disponível em sua organização, o Colaborador não poderá criar o download do CSV mostrado neste vídeo.
+> Se o Data Distiller não estiver disponível em sua organização, o Colaborador não poderá criar o download do CSV mostrado neste vídeo. Selecione [Assistir ao Serviço de Consulta e ao vídeo do Terminal](exporting-conversations-using-query-service-and-terminal.md) para saber como exportar dados da conversa para um arquivo CSV usando Terminal.
 
 Para obter a documentação, consulte a [ajuda do Brand Concierge](../documentation/overview.md).
 
