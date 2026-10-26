@@ -6,25 +6,33 @@ level: Beginner
 TQID: https://experienceleague.adobe.com/Ob3NAKyD929Ije-Y7UPO1hMfDYDi-UJ0gINpGlxiYGM
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
+    internal-label: Customer engagement
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
   - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
+    internal-label: Data integration
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+    internal-label: Privacy
+source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
 workflow-type: tm+mt
-source-wordcount: 2047
+source-wordcount: '2051'
 ht-degree: 1%
-
 ---
-
 # Ajuda do Brand Concierge
 
 Saiba como configurar e usar os principais recursos do Brand Concierge. Encontre respostas para perguntas comuns sobre configuração, integração de dados, privacidade, personalização, medição de desempenho e requisitos técnicos.
@@ -116,7 +124,7 @@ Para obter o conjunto completo de tipos de fonte de conhecimento e etapas de sol
 
 As habilidades determinam o que um concierge pode fazer pelos visitantes, como o **Product Advisory** para recomendações de produtos ou o **Site Advisory** para perguntas gerais sobre marcas. Selecione **[!UICONTROL Procurar Habilidades]** para exibir o catálogo de habilidades disponível e ativar as habilidades necessárias para a concierge.
 
-* **Catálogo de habilidades:** escolha entre as habilidades disponíveis, como o Site Advisory, o Product Advisory e as habilidades que oferecem suporte à reserva da reunião ou ao chat ao vivo com um representante de vendas.
+* **Catálogo de habilidades:** escolha entre as habilidades disponíveis, como Consultoria de sites, Consultoria de produtos e [Transmissão para vendas](sales-handoff/overview.md), que oferece aos visitantes um chat ao vivo ou uma reunião com um representante de vendas.
 * **Configuração:** Para cada habilidade, defina seu nome, descrição e as intenções (frases ou tópicos de gatilho) que devem chamá-la.
 * **Integrações:** anexe a integração que uma habilidade precisa para fazer seu trabalho, ou selecione **[!UICONTROL Usar recomendado]** para que o Composer selecione uma automaticamente.
 * **Visualização:** teste as alterações imediatamente na visualização ao vivo.

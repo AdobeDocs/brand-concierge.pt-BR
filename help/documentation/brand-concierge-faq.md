@@ -6,24 +6,31 @@ level: Beginner
 TQID: https://experienceleague.adobe.com/R-s7wgJ5jtCXnBiLMVdW-6db7cTgSgaJwq4x6IlEJqY
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+    internal-label: Privacy
   - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
-source-git-commit: d23569d059a42297a92b339ecf92852fb3234033
+    internal-label: Customer profiles
+source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
 workflow-type: tm+mt
-source-wordcount: 1958
+source-wordcount: '1980'
 ht-degree: 1%
-
 ---
-
 # Perguntas frequentes
 
 Leia esta seção para obter respostas a perguntas frequentes sobre o Brand Concierge.
@@ -141,7 +148,7 @@ Todos os testes acontecem antes da implantação para os clientes.
 
 ### Os clientes podem agendar reuniões com nossa equipe?
 
-Sim, os clientes podem agendar reuniões com sua equipe usando a habilidade Reserva de Reunião. Para ativar esse recurso, ative a habilidade na Configuração de habilidades, defina intenções de ativação (como &quot;falar com as vendas&quot;), conecte seu calendário ou sistema de agendamento e defina sua disponibilidade e tipos de reunião. Após a configuração, os clientes podem solicitar reuniões durante conversas, e o Brand Concierge facilitará o processo de agendamento sem exigir que saiam do bate-papo.
+Sim. Os clientes podem agendar reuniões com sua equipe ou iniciar um chat ao vivo com um representante, usando a habilidade **Transmissão para vendas** com as integrações da **Reserva de Reunião** e do **Chat ao Vivo**. Os representantes conectam seu calendário e definem sua disponibilidade no Adobe Marketo Qualifier, você escolhe como os visitantes são direcionados a eles e, em seguida, ativa a habilidade no Composer e define as intenções que o acionam. Após a configuração, os clientes podem solicitar uma reunião ou um chat ao vivo durante uma conversa sem sair do chat. Consulte [Chat e reserva de reunião em tempo real](sales-handoff/overview.md).
 
 ### Como são gerados os pares iniciais de perguntas e respostas da minha base de conhecimento?
 

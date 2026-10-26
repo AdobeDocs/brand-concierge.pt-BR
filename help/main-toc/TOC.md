@@ -2,9 +2,9 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Explorar o Adobe Brand Concierge
-source-git-commit: c80a55306cf078d21071332532717760960dbc47
+source-git-commit: bc1ad01947d4c756c13392c1db85ced46e9cca82
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '223'
 ht-degree: 13%
 ---
 
@@ -32,7 +32,6 @@ ht-degree: 13%
   + [Sua lista de verificação de pré-ativação e seu plano de implantação](../go-live/your-pre-go-live-checklist-and-rollout-plan.md)
 + Documentação {#documentation}
   + [Ajuda do Brand Concierge](../documentation/overview.md)
-  + [Encontros](../documentation/meetings.md)
   + [Estrutura de habilidades e integrações](../documentation/skills-and-integrations.md)
   + [Guia do desenvolvedor e de personalização](../documentation/developer-customization-guide.md)
   + [Conversação por voz](../documentation/voice-conversation.md)
@@ -48,6 +47,14 @@ ht-degree: 13%
     + [Criar e gerenciar fontes de conhecimento para o Brand Concierge](../documentation/knowledge-sources/knowledge-sources.md)
   + Gestão de concierge {#concierge-management}
     + [Gerenciar um concierge](../documentation/concierge-management/concierge-management.md)
+  + Chat ao vivo e reserva de reunião {#sales-handoff}
+    + [Visão geral](../documentation/sales-handoff/overview.md)
+    + [Configurar representantes](../documentation/sales-handoff/representative-setup.md)
+    + [Rotear conversas para representantes](../documentation/sales-handoff/routing-rules.md)
+    + [Ativar reserva do Live Chat e da Reunião](../documentation/sales-handoff/configure-in-composer.md)
+    + [Caixa de entrada do chat](../documentation/sales-handoff/chat-inbox.md)
+    + [Dados do Brand Concierge no Marketo Engage](../documentation/sales-handoff/marketo-activities.md)
+    + [Monitorar reuniões e bate-papos ao vivo](../documentation/sales-handoff/monitor.md)
   + Avaliação {#evaluation}
     + [Avaliar um concierge](../documentation/evaluation/evaluation.md)
   + Implantação {#deployment}

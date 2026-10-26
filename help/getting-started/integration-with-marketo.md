@@ -17,9 +17,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '156'
 ht-degree: 0%
 ---
 # Integração com o Marketo
@@ -36,6 +36,6 @@ Saiba como o Brand Concierge fecha o loop entre seu site e o Marketo Engage. Vej
 * O tipo de atividade nativa &quot;Reunião Programada no Concierge&quot; registrada no Log de Atividades do lead, com contexto completo: duração da reunião, etapa de vendas, tipo de roteiro e status da reserva
 * Como usar os tipos de atividades do Brand Concierge nas Campanhas inteligentes do Marketo — como acionadores, filtros ou dados de campanha em lote
 
->[!VIDEO](https://video.tv.adobe.com/v/3492254?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3492225?learn=on)
 
-Para obter a documentação, consulte a [ajuda do Brand Concierge](../documentation/overview.md).
+Para obter a documentação, consulte [Dados do Brand Concierge no Marketo Engage](../documentation/sales-handoff/marketo-activities.md).
