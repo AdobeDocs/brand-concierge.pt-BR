@@ -12,16 +12,16 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: '638'
 ht-degree: 1%
 ---
 # Caixa de entrada do chat {#chat-inbox}
 
 Quando um visitante pede para falar com alguém, o chat chega na **[!UICONTROL Caixa de entrada do chat]** em [!DNL Adobe Marketo Qualifier]. Esta página é a visão do representante de um bate-papo ao vivo: o que você vê quando ele chega, o contexto que você recebe e o que você precisa fazer antes de fechar.
 
-Para abri-lo, no painel esquerdo, em **[!UICONTROL Atividades]**, selecione **[!UICONTROL Caixa de entrada do chat]**.
+Para abrir a caixa de entrada do chat, no painel esquerdo em **[!UICONTROL Atividades]**, selecione **[!UICONTROL Caixa de entrada do chat]**.
 
 ## Receber um chat {#receive}
 

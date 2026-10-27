@@ -2,7 +2,7 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Explorar o Adobe Brand Concierge
-source-git-commit: bc1ad01947d4c756c13392c1db85ced46e9cca82
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 13%
@@ -51,7 +51,7 @@ ht-degree: 13%
     + [Visão geral](../documentation/sales-handoff/overview.md)
     + [Configurar representantes](../documentation/sales-handoff/representative-setup.md)
     + [Rotear conversas para representantes](../documentation/sales-handoff/routing-rules.md)
-    + [Ativar reserva do Live Chat e da Reunião](../documentation/sales-handoff/configure-in-composer.md)
+    + [Ativar chat ao vivo e reserva de reunião](../documentation/sales-handoff/configure-in-composer.md)
     + [Caixa de entrada do chat](../documentation/sales-handoff/chat-inbox.md)
     + [Dados do Brand Concierge no Marketo Engage](../documentation/sales-handoff/marketo-activities.md)
     + [Monitorar reuniões e bate-papos ao vivo](../documentation/sales-handoff/monitor.md)

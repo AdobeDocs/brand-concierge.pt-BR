@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '786'
 ht-degree: 1%
 ---
 # Configurar representantes no Adobe Marketo Qualifier {#representative-setup}
@@ -35,7 +35,7 @@ Os próprios representantes completam as etapas restantes.
 
 A conexão do calendário é o que torna a disponibilidade real visível para um concierge. Sem ele, o representante não é elegível para a reserva da reunião.
 
-1. Faça logon na [Adobe Experience Cloud](https://experience.adobe.com/){target="_blank"} e selecione **[!UICONTROL Adobe Marketo Qualifier]**.
+1. Entre na [Adobe Experience Cloud](https://experience.adobe.com/){target="_blank"} e selecione **[!UICONTROL Adobe Marketo Qualifier]**.
 
    ![Página inicial da Adobe Experience Cloud com o cartão da Adobe Marketo Qualifier](../assets/meetings-connect-1.png){width="800" zoomable="yes"}
 
@@ -49,7 +49,7 @@ A conexão do calendário é o que torna a disponibilidade real visível para um
 
    ![Seletor de conta da Microsoft mostrado durante a conexão do calendário](../assets/meetings-connect-3.png){width="600" zoomable="yes"}
 
-1. Revise o email de confirmação que é enviado a um visitante quando ele reserva uma reunião com você.
+1. Revise o email de confirmação que um visitante recebe quando reserva uma reunião com você.
 
    Uma linha de assunto e um corpo padrão estão definidos para você. Edite qualquer um e escolha se deseja incluir um link de reunião [!DNL Microsoft Teams] no convite.
 
@@ -112,7 +112,7 @@ A disponibilidade do chat ao vivo é separada da disponibilidade do calendário.
 
 ## Analisar quem está configurado {#manage-members}
 
-**Somente administradores.** Em **[!UICONTROL Administração]**, selecione **[!UICONTROL Gerenciar membros]** para ver o estado de cada representante em um local: que conectou um calendário, que definiu a disponibilidade do chat ao vivo e que desconectou um calendário.
+Esta seção é somente para administradores do. Em **[!UICONTROL Administração]**, selecione **[!UICONTROL Gerenciar membros]** para ver o estado de cada representante em um local: que conectou um calendário, que definiu a disponibilidade do chat ao vivo e que desconectou um calendário.
 
 Use-a antes de ativar as integrações no Composer. Um representante que aparece aqui sem um calendário conectado não está qualificado para reserva de reunião, e um representante sem disponibilidade de chat ao vivo não está qualificado para bate-papo ao vivo.
 

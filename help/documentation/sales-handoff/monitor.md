@@ -14,14 +14,14 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '225'
 ht-degree: 0%
 ---
 # Monitorar reuniões e bate-papos ao vivo {#monitor}
 
-[!DNL Adobe Marketo Qualifier] mantém o registro operacional de todas as transferências: as reuniões reservadas, os bate-papos realizados e o desempenho da equipe em relação a elas.
+[!DNL Adobe Marketo Qualifier] mantém o registro operacional de cada entrega: as reuniões reservadas, os chats realizados e o desempenho das reservas de reunião.
 
 ## Revisar reuniões reservadas {#bookings}
 
@@ -39,9 +39,9 @@ Em **[!UICONTROL Atividades]**, selecione **[!UICONTROL Caixa de entrada do chat
 
 ## Analisar o desempenho da reunião {#performance}
 
-Em **[!UICONTROL Analytics]**, selecione **[!UICONTROL Desempenho da reunião]** para analisar várias categorias de análise, incluindo quantos visitantes solicitaram reuniões e quantos foram perdidos. Você também pode ver a tendência das reuniões ao longo do tempo e quais representantes as tomaram.
+Em **[!UICONTROL Analytics]**, selecione **[!UICONTROL Desempenho da reunião]** para ver quantas reuniões os visitantes solicitaram, quantas foram reservadas e quantas foram perdidas. Você também pode ver as tendências diárias, semanais e mensais, a porcentagem de reuniões solicitadas que foram reservadas e quais representantes fizeram mais reuniões.
 
-![Painel de desempenho da reunião](../assets/meetings-performance-1.png){width="800" zoomable="yes"}
+![Painel de desempenho da reunião mostrando o total de reuniões solicitadas, reservadas e perdidas, seguido por gráficos diários de reuniões perdidas e a porcentagem de solicitações que foram reservadas](../assets/meetings-performance-1.png){width="800" zoomable="yes"}
 
 ## Analisar o envolvimento do concierge no Marketo Engage {#marketo}
 

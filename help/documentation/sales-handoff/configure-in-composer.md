@@ -14,12 +14,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '828'
 ht-degree: 0%
 ---
-# Ativar reserva do Live Chat e da Reunião {#configure-in-composer}
+# Ativar chat ao vivo e reserva de reunião {#configure-in-composer}
 
 Duas coisas precisam estar no lugar do Composer. As integrações da **[!UICONTROL Reserva de Reunião]** e do **[!UICONTROL Bate-papo ao Vivo]** oferecem ao concierge a *capacidade* de verificar a disponibilidade, iniciar um chat e reservar um slot. A habilidade **[!UICONTROL Transferir para vendas]** informa a ele *quando* para usar essa habilidade.
 
@@ -27,7 +27,7 @@ Duas coisas precisam estar no lugar do Composer. As integrações da **[!UICONTR
 >
 >Conclua [Configurar representantes no Adobe Marketo Qualifier](representative-setup.md) primeiro. As integrações verificam se há calendários conectados e disponibilidade de bate-papo ao vivo, e não serão ativadas sem eles.
 
-## Conectar a integração da Reserva de Reunião {#connect-meeting-booking}
+## Conectar a integração de reserva da reunião {#connect-meeting-booking}
 
 1. No Composer, abra sua portaria e selecione **[!UICONTROL Integrações]** > **[!UICONTROL Procurar integrações]**.
 
@@ -54,7 +54,7 @@ Duas coisas precisam estar no lugar do Composer. As integrações da **[!UICONTR
 
 1. Selecione **[!UICONTROL Conectar]**.
 
-## Conectar a integração do Live Chat {#connect-live-chat}
+## Conectar a integração do chat ao vivo {#connect-live-chat}
 
 1. Em **[!UICONTROL Procurar integrações]**, selecione **[!UICONTROL Chat ao Vivo]** e **[!UICONTROL Configurar]**.
 
@@ -100,7 +100,7 @@ As integrações agora estão conectadas, mas o concierge ainda precisa saber qu
    | Comparação competitiva | Comparar suas soluções com alternativas, diferenciação ou migração de concorrentes |
    | Acesso de avaliação e POC | Configurações de avaliação, acesso ao playground, provas de conceito ou pilotos |
    | Alterações de contrato e licenciamento | Renovações de contrato, extensões de prazo ou atualizações de plano |
-   | RFP ou RFI de aquisição | Envios, respostas, questionários de fornecedores, formulários de aquisição ou documentação de conformidade |
+   | RFP ou RFI de aquisição | Envios e respostas de RFP ou RFI, questionários do fornecedor, formulários de aquisição ou documentação de conformidade |
    | Demonstrações | Demonstrações ou apresentações do produto |
 
    Selecione **[!UICONTROL Adicionar condição]** para adicionar sua própria intenção ou excluir qualquer condição que não se aplique à sua empresa.
@@ -123,6 +123,6 @@ Abra a visualização e peça ao concierge algo que corresponda a uma das condi�
 
 Quando o comportamento estiver certo, publique sua portaria para ativar a entrega no site.
 
-## Próxima etapa {#next}
+## Próximas etapas {#next-steps}
 
-Seus representantes agora podem receber chats. Consulte [Caixa de entrada de chat](chat-inbox.md).
+Seus representantes agora podem receber bate-papos e reservas de reuniões. Para saber como os representantes lidam com o bate-papo, consulte [Caixa de entrada do chat](chat-inbox.md).
