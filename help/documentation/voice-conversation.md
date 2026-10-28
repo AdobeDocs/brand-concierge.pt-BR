@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4a54cf90e8233e86cabf9329a78cb10f35a630f6
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '337'
 ht-degree: 0%
 ---
 # Habilitar conversas de voz
@@ -66,3 +66,7 @@ A voz não limita o porteiro ao áudio. Durante uma conversa por voz, o porteiro
 1. Na guia **Design**, selecione **Voz**.
 
 1. No painel _Voz_, desabilite as opções que deseja desativar e selecione **Salvar**.
+
+## Vídeo de demonstração
+
+Para ver as conversas de voz em ação, confira a [demonstração em vídeo](/help/getting-started/voice-conversation.md).

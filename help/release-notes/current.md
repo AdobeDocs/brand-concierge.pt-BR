@@ -5,7 +5,7 @@ feature: Release Information
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
     internal-label: Brand Concierge
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
 source-wordcount: '1327'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Todos os recursos estão disponíveis para o público em geral, a menos que indi
 
 ## Setembro de 2026 {#september-2026}
 
-* **Reserva de Chat e Reunião ao Vivo no Composer 2.0**: a Reserva de Chat e Reunião ao Vivo está disponível como integrações integradas no painel Procurar Integrações do Composer, e a nova Transferência para a habilidade de vendas decide quando oferecê-las com base na intenção do visitante. Consulte [Ativar chat ao vivo e reserva de reunião](../documentation/sales-handoff/configure-in-composer.md).
+* **Reserva de Chat e Reunião ao Vivo no Composer 2.0**: a Reserva de Chat e Reunião ao Vivo está disponível como integrações integradas no painel de integrações de Navegação do Composer, e a nova Transferência para a habilidade de vendas determina quando oferecê-las com base na intenção do visitante. Consulte [Ativar chat ao vivo e reserva de reunião](../documentation/sales-handoff/configure-in-composer.md).
 
 * **Regras de Roteamento Personalizadas**: crie regras de roteamento nos atributos de cliente potencial e empresa da Marketo para enviar visitantes ao representante correto, usando vários grupos de condição combinados com AND e OR, regras priorizadas e vários representantes atribuídos. O roteamento personalizado se aplica à reserva de reunião e ao chat ao vivo. Consulte [Rotear conversas para representantes](../documentation/sales-handoff/routing-rules.md).
 

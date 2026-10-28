@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '764'
+source-wordcount: '771'
 ht-degree: 0%
 ---
 # Rotear conversas para representantes {#routing}
@@ -39,7 +39,7 @@ Round robin está disponível por padrão e não precisa de configuração. Voc�
 
 Round robin se comporta de forma diferente para reuniões e bate-papos, pois os dois têm objetivos diferentes.
 
-**Para reserva de reunião**, o round robin distribui as reuniões uniformemente. O primeiro representante qualificado que conectou um calendário é oferecido primeiro. Uma vez que uma reunião é reservada com eles, eles são retirados do pool e o próximo representante é oferecido. Com cinco representantes, as primeiras cinco reuniões vão para cinco pessoas diferentes. Depois que todos tiverem recebido um, o pool é redefinido e o ciclo é iniciado novamente.
+Para a reserva da reunião, o round robin distribui as reuniões uniformemente. O primeiro representante qualificado que conectou um calendário é oferecido primeiro. Uma vez que uma reunião é reservada com eles, eles são retirados do pool e o próximo representante é oferecido. Com cinco representantes, as primeiras cinco reuniões vão para cinco pessoas diferentes. Depois que todos tiverem recebido um, o pool é redefinido e o ciclo é iniciado novamente.
 
 O pool também é redefinido a cada 24 horas, para que as reuniões de cada dia sejam distribuídas uniformemente.
 
@@ -47,7 +47,7 @@ O pool também é redefinido a cada 24 horas, para que as reuniões de cada dia 
 >
 >A redefinição de 24 horas é executada em UTC, não no fuso horário local do representante.
 
-**Para o chat ao vivo**, não há rotação sequencial. Cada representante elegível é notificado do bate-papo ao mesmo tempo, e o primeiro a aceitar leva a conversa.
+Para bate-papo ao vivo, não há rotação sequencial. Cada representante elegível é notificado do bate-papo ao mesmo tempo, e o primeiro a aceitar leva a conversa.
 
 ### Agente direto {#direct-agent}
 
@@ -57,9 +57,9 @@ Cada reunião ou bate-papo desta concierge vai para o representante único que v
 
 O roteamento personalizado avalia as regras que você cria no [!DNL Adobe Marketo Qualifier] em relação ao cliente potencial [!DNL Marketo] do visitante e aos atributos da empresa. Use-a quando o representante certo depender de algo que você sabe sobre o visitante, como:
 
-* **Geografia** — os visitantes de um conjunto de países vão para a equipe regional.
-* **Interesse no produto** — os visitantes interessados em um produto específico acessam os especialistas do produto.
-* **Unidade de negócios, tamanho da empresa ou setor** — qualquer combinação de cliente potencial e atributos da empresa.
+* Geografia: visitantes de um conjunto de países vão para a equipe regional.
+* Interesse do produto: os visitantes interessados em um produto específico vão para os especialistas desse produto.
+* Unidade de negócios, tamanho da empresa ou setor: qualquer combinação de lead e atributos da empresa.
 
 >[!IMPORTANT]
 >
@@ -103,7 +103,7 @@ Quando isso acontece, somente a regra de correspondência de maior prioridade é
 >
 >Um número menor significa uma prioridade mais alta. Uma regra com prioridade 1 vence uma regra com prioridade 2. A pessoa que cria uma regra define sua prioridade.
 
-Dentro da regra vencedora, os representantes atribuídos a ela são o pool elegível, e o comportamento round robin e all-agent descrito acima se aplica a esse pool.
+Dentro da regra vencedora, os representantes atribuídos a ela são o pool elegível, e o comportamento round robin para reuniões e o comportamento notificar todos para chats, ambos descritos acima, se aplicam a esse pool.
 
 ## Próxima etapa {#next}
 

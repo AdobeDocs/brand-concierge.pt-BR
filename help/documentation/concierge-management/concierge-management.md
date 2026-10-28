@@ -5,7 +5,7 @@ toc: true
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
     internal-label: Brand Concierge
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
 source-wordcount: '1702'
 ht-degree: 1%
@@ -77,8 +77,8 @@ Selecione **Procurar Integrações** para exibir o catálogo de integração dis
 | Pesquisa com IA de conteúdo | Pesquisa conteúdo do AEM Sites | Relevante para clientes do AEM Sites as a Cloud Service |
 | Vinculação de entidade | Resolve o produto ou as menções de marca na mensagem de um visitante para entidades de catálogo específicas | Integração de suporte, normalmente usada junto com uma integração de pesquisa em vez de sozinha |
 | COMMERCE MCP | Conecta-se a um catálogo Adobe Commerce em tempo real para pesquisa de produtos, detalhes de produtos e comparações | Não habilitado por padrão; requer códigos ou chaves do comércio ou da equipe de TI |
-| Reserva de Reunião | Permite aos visitantes reservar uma reunião com um representante de vendas | Exige configuração com o calendário de um representante de vendas. Ver [Chat e reserva de reunião em tempo real](../sales-handoff/overview.md) |
-| Bate-papo ao vivo | Conecta visitantes com um representante de vendas ao vivo | Exige configuração com a disponibilidade de um representante de vendas. Ver [Chat e reserva de reunião em tempo real](../sales-handoff/overview.md) |
+| Reserva de Reunião | Permite aos visitantes reservar uma reunião com um representante de vendas | Exige configuração com o calendário de um representante de vendas. Consulte [Chat e reserva de reunião em tempo real](../sales-handoff/overview.md). |
+| Bate-papo ao vivo | Conecta visitantes com um representante de vendas ao vivo | Exige configuração com a disponibilidade de um representante de vendas. Consulte [Chat e reserva de reunião em tempo real](../sales-handoff/overview.md). |
 
 ### Ativar e configurar uma integração
 
@@ -193,7 +193,7 @@ Para obter o procedimento completo, consulte [Chat ao vivo e reserva de reunião
 
 1. [Rotear conversas para representantes](../sales-handoff/routing-rules.md) — escolha round robin, um agente direto ou regras de roteamento personalizadas.
 
-1. [Ativar reserva do Live Chat e da Reunião](../sales-handoff/configure-in-composer.md) — conecte as integrações da **[!UICONTROL Reserva de Reunião]** e do **[!UICONTROL Live Chat]** e ative a habilidade **[!UICONTROL Transferir para vendas]**.
+1. [Ativar chat ao vivo e reserva de reunião](../sales-handoff/configure-in-composer.md) — conecte as integrações da **[!UICONTROL Reserva de Reunião]** e do **[!UICONTROL Chat ao Vivo]** e ative a habilidade **[!UICONTROL Transmissão para vendas]**.
 
 1. Selecione **Simular** para testar a experiência completa. Insira uma pergunta de exemplo e confirme se ela é direcionada para o fluxo correto de habilidades e engajamento.
 

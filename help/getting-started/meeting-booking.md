@@ -27,14 +27,14 @@ topic_v2:
     internal-label: Customer experience
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 49%
+source-wordcount: '124'
+ht-degree: 16%
 ---
 # Marcar uma reunião
 
-Saiba mais sobre o recurso de reserva de reunião encontrado no Adobe Brand Concierge. Neste tutorial em vídeo, os tópicos abordados mostram como pode ser a experiência voltada para o cliente, a configuração do(a) admin para conectar um calendário e a análise de alguns painéis e relatórios.
+Saiba mais sobre o recurso de reserva de reunião na Adobe Brand Concierge. Neste tutorial em vídeo, os tópicos abordados são como pode ser a experiência do cliente, a configuração do administrador para conectar um calendário e uma análise de alguns painéis e relatórios.
 
 ## Para quem é este vídeo?
 
