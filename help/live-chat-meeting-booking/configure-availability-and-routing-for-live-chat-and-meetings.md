@@ -29,7 +29,7 @@ Saiba como a Adobe Brand Concierge usa as regras de disponibilidade e roteamento
 * Defina horas de chat ao vivo separadas e revise a disponibilidade dos representantes em Gerenciar membros
 * Crie regras de roteamento com atributos de visitante, condições, atribuições de representante e prioridades
 
->[!VIDEO](https://video.tv.adobe.com/v/3506785?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506789?captions=por_br&learn=on)
 
 Para obter a documentação, consulte [Configurar representantes](../documentation/sales-handoff/representative-setup.md) e [Rotear conversas com representantes](../documentation/sales-handoff/routing-rules.md).
 

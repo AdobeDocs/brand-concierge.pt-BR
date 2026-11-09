@@ -30,7 +30,7 @@ Explore como a Adobe Brand Concierge conecta visitantes do site com representant
 * Como os visitantes selecionam um horário de reunião disponível usando regras de roteamento, sem reenviar os detalhes já fornecidos durante a sessão
 * Como sua equipe analisa bate-papos ativos e passados e reuniões reservadas no Marketo, pesquisa e filtra registros e exporta informações de reunião para CSV
 
->[!VIDEO](https://video.tv.adobe.com/v/3505998?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506002?captions=por_br&learn=on)
 
 Para obter a documentação, consulte [Chat ao vivo e reserva de reunião](../documentation/sales-handoff/overview.md).
 

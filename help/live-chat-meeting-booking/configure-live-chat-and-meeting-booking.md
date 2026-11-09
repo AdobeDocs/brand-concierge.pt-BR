@@ -28,7 +28,7 @@ Saiba como configurar o chat ao vivo e a reserva de reunião no Adobe Brand Conc
 * Adicione as integrações à habilidade Entrega para vendas e defina as intenções que a acionam
 * Revise as instruções geradas automaticamente, refine quais intenções acionam cada integração e teste a habilidade na visualização
 
->[!VIDEO](https://video.tv.adobe.com/v/3508052?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3508056?captions=por_br&learn=on)
 
 Para obter a documentação, consulte [Ativar chat ao vivo e reserva de reunião](../documentation/sales-handoff/configure-in-composer.md).
 
