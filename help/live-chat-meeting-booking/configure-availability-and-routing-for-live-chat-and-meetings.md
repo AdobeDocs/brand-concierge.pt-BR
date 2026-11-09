@@ -5,12 +5,12 @@ topic: Administration
 role: User
 level: Beginner
 doc-type: Tutorial
-duration: 201
+duration: 206
 last-substantial-update: 2026-11-03
 jira: KT-23034
-source-git-commit: 636dfd59c05251b6e07523877d9f7ab2df302f04
+source-git-commit: 1d527d5f400254b317871c0cc2d0315846e2da63
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '168'
 ht-degree: 0%
 ---
 # Definir disponibilidade e roteamento para bate-papo e reuniões ao vivo
@@ -32,3 +32,9 @@ Saiba como a Adobe Brand Concierge usa as regras de disponibilidade e roteamento
 >[!VIDEO](https://video.tv.adobe.com/v/3506789?captions=por_br&learn=on)
 
 Para obter a documentação, consulte [Configurar representantes](../documentation/sales-handoff/representative-setup.md) e [Rotear conversas com representantes](../documentation/sales-handoff/routing-rules.md).
+
+## Tutoriais relacionados
+
+* [Chat ao vivo e reserva de reunião: a experiência completa](live-chat-and-meeting-booking-end-to-end-experience.md)
+* [Configurar o chat ao vivo e a reserva da reunião](configure-live-chat-and-meeting-booking.md)
+* [Usar atividades do Brand Concierge no Marketo](use-brand-concierge-activities-in-marketo.md)
