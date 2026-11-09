@@ -1,16 +1,16 @@
 ---
 title: Usar atividades do Brand Concierge no Marketo
-description: Saiba como o Brand Concierge envia dados de engajamento para o Marketo e usa filtros e acionadores de atividades em campanhas inteligentes.
+description: Saiba como o Adobe Brand Concierge envia dados de engajamento para o Marketo Engage e usa filtros de atividade, acionadores e pontuações de conversa em campanhas inteligentes.
 topic: Integrations
 role: User
 level: Beginner
 doc-type: Tutorial
-duration: 276
+duration: 282
 last-substantial-update: 2026-11-06
 jira: KT-23062
-source-git-commit: 5d5b641a252c21e1c490cc77f169ac651d9654d1
+source-git-commit: 07679bbe94abeeebcd160cff4cb41f0f561ac63e
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '179'
 ht-degree: 0%
 ---
 # Usar atividades do Brand Concierge no Marketo
@@ -30,6 +30,12 @@ Saiba como o Adobe Brand Concierge envia detalhes de pessoas e atividades de eng
 * Distinguir reservas de reuniões iniciadas de reuniões agendadas
 * Revise o status do chat ao vivo e as pontuações de conversa atribuídas por representantes
 * Adicionar filtros e acionadores de atividade do Concierge a uma campanha inteligente do `Smart List`
-* Restringir públicos-alvo com restrições de atividade disponíveis, como status, datas, tipo de roteamento, URL da página, representante de vendas e pontuação da conversa
+* Restringir públicos-alvo com restrições de atividade, como status, datas, tipo de roteamento, URL da página, representante de vendas e pontuação de conversa
 
->[!VIDEO](https://video.tv.adobe.com/v/3508045?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3508041?learn=on)
+
+## Tutoriais relacionados
+
+* [Chat ao vivo e reserva de reunião: a experiência completa](live-chat-and-meeting-booking-end-to-end-experience.md)
+* [Definir disponibilidade e roteamento para bate-papo e reuniões ao vivo](configure-availability-and-routing-for-live-chat-and-meetings.md)
+* [Configurar o chat ao vivo e a reserva da reunião](configure-live-chat-and-meeting-booking.md)
