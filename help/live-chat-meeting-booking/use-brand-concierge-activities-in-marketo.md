@@ -32,7 +32,7 @@ Saiba como o Adobe Brand Concierge envia detalhes de pessoas e atividades de eng
 * Adicionar filtros e acionadores de atividade do Concierge a uma campanha inteligente do `Smart List`
 * Restringir públicos-alvo com restrições de atividade, como status, datas, tipo de roteamento, URL da página, representante de vendas e pontuação de conversa
 
->[!VIDEO](https://video.tv.adobe.com/v/3508041?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3508045?captions=por_br&learn=on)
 
 ## Tutoriais relacionados
 
