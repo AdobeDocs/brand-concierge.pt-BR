@@ -5,12 +5,12 @@ topic: Integrations
 role: User
 level: Beginner
 doc-type: Tutorial
-duration: 178
+duration: 184
 last-substantial-update: 2026-10-29
 jira: KT-23033
-source-git-commit: 5b597ed9a2f82bd2938ab3c9a9d1736364b43042
+source-git-commit: 1d527d5f400254b317871c0cc2d0315846e2da63
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '223'
 ht-degree: 0%
 ---
 # Chat ao vivo e reserva de reunião: a experiência completa
@@ -30,6 +30,12 @@ Explore como a Adobe Brand Concierge conecta visitantes do site com representant
 * Como os visitantes selecionam um horário de reunião disponível usando regras de roteamento, sem reenviar os detalhes já fornecidos durante a sessão
 * Como sua equipe analisa bate-papos ativos e passados e reuniões reservadas no Marketo, pesquisa e filtra registros e exporta informações de reunião para CSV
 
->[!VIDEO](https://video.tv.adobe.com/v/3506002?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505998?learn=on)
 
 Para obter a documentação, consulte [Chat ao vivo e reserva de reunião](../documentation/sales-handoff/overview.md).
+
+## Tutoriais relacionados
+
+* [Definir disponibilidade e roteamento para bate-papo e reuniões ao vivo](configure-availability-and-routing-for-live-chat-and-meetings.md)
+* [Configurar o chat ao vivo e a reserva da reunião](configure-live-chat-and-meeting-booking.md)
+* [Usar atividades do Brand Concierge no Marketo](use-brand-concierge-activities-in-marketo.md)
