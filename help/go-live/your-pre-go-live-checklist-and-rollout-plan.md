@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 269
 last-substantial-update: 2026-10-05
 jira: KT-22190
-source-git-commit: b1cb207b8624703baa0247f2b08c3f522ab4d0db
+source-git-commit: b1085e3d143bbfbf221c0a8269746be7a153a4d0
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '303'
 ht-degree: 0%
 ---
 
@@ -48,4 +48,4 @@ Comece com colegas de equipe internos e teste fluxos completos de ponta a ponta.
 * [Configuração técnica e recursos opcionais](technical-setup-and-optional-features.md)
 * [Lista de reprodução da lista de verificação de ativação do Brand Concierge](https://experienceleague.adobe.com/pt-br/playlists/brand-concierge-go-live-checklist)
 
-Para obter a documentação, consulte a [ajuda do Brand Concierge](../documentation/overview.md).
+Para obter a documentação, consulte a [lista de verificação de ativação](../documentation/go-live-checklist/go-live-checklist.md) e a [ajuda do Brand Concierge](../documentation/overview.md).
