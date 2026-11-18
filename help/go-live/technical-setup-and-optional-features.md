@@ -41,7 +41,7 @@ Prepare seu site para o Adobe Brand Concierge e escolha os recursos opcionais qu
 * Ativação do chat ao vivo com disponibilidade de representante, acionadores de visitante e um fallback de reserva de reunião
 * Conectar o Marketo Engage para receber clientes potenciais e atividades, com acesso de administrador e um sinalizador de recurso
 
->[!VIDEO](https://video.tv.adobe.com/v/3504075/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504079/?captions=por_br&learn=on)
 
 ## Tutoriais relacionados
 
